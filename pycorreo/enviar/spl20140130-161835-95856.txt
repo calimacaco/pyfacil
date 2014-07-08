@@ -1,0 +1,1 @@
+enviar::Argemiro.Camacho@laequidadseguros.coop<|>pdf::c:\simplesoft\facil\modelos\pdf\TextoOrdenes-AA034912-00001.pdf<|>asunto::RCE  PROF DE LA SALUD<|>bandera::<|>adicional::<|>Rutavirtual::\\192.168.200.50\C$\$usuarios$\acamacho\$escritorio$\prueba

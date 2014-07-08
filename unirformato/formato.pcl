@@ -1,0 +1,3 @@
+admin	       build	     formato.pcl       leerregistro.py	 setup.py
+borrarpcl.py   compilar.bat  guardarspool.py   leerregistro.pyc  unir.py
+borrarpcl.pyc  dist	     guardarspool.pyc  pedido.spl

@@ -1,0 +1,157 @@
+timestamp: 2014-03-10T09:45:56.697939
+CREATE TABLE auth_user(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    username CHAR(512),
+    first_name CHAR(512),
+    last_name CHAR(512),
+    email CHAR(512),
+    password CHAR(512),
+    created_on TIMESTAMP,
+    modified_on TIMESTAMP,
+    registration_key CHAR(512),
+    reset_password_key CHAR(512),
+    registration_id CHAR(512)
+);
+success!
+timestamp: 2014-03-10T09:45:56.844594
+CREATE TABLE auth_group(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    role CHAR(512),
+    description TEXT
+);
+success!
+timestamp: 2014-03-10T09:45:56.969900
+CREATE TABLE auth_membership(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    user_id INTEGER REFERENCES auth_user(id) ON DELETE CASCADE,
+    group_id INTEGER REFERENCES auth_group(id) ON DELETE CASCADE
+);
+success!
+timestamp: 2014-03-10T09:45:57.117363
+CREATE TABLE auth_permission(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    group_id INTEGER REFERENCES auth_group(id) ON DELETE CASCADE,
+    name CHAR(512),
+    table_name CHAR(512),
+    record_id INTEGER
+);
+success!
+timestamp: 2014-03-10T09:45:57.249359
+CREATE TABLE auth_event(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    time_stamp TIMESTAMP,
+    client_ip CHAR(512),
+    user_id INTEGER REFERENCES auth_user(id) ON DELETE CASCADE,
+    origin CHAR(512),
+    description TEXT
+);
+success!
+timestamp: 2014-03-10T09:45:57.360564
+CREATE TABLE auth_cas(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    user_id INTEGER REFERENCES auth_user(id) ON DELETE CASCADE,
+    created_on TIMESTAMP,
+    service CHAR(512),
+    ticket CHAR(512),
+    renew CHAR(1)
+);
+success!
+timestamp: 2014-03-10T09:52:00.289479
+CREATE TABLE tbl_estado(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    idgrupo INTEGER NOT NULL,
+    valor INTEGER NOT NULL,
+    descripcion CHAR(512) NOT NULL,
+    orden INTEGER NOT NULL DEFAULT 0
+);
+success!
+timestamp: 2014-03-10T09:52:00.442695
+CREATE TABLE tbl_pdl(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    descripcion TEXT NOT NULL
+);
+success!
+timestamp: 2014-03-10T09:52:00.589319
+CREATE TABLE tbl_impresora(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    nombre CHAR(512) NOT NULL,
+    salidapdl INTEGER REFERENCES tbl_pdl(id) ON DELETE CASCADE,
+    idestado INTEGER REFERENCES tbl_estado(id) ON DELETE CASCADE
+);
+success!
+timestamp: 2014-03-10T09:52:00.736727
+CREATE TABLE tbl_spool(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    idestado INTEGER REFERENCES tbl_estado(id) ON DELETE CASCADE,
+    idimpresora INTEGER REFERENCES tbl_impresora(id) ON DELETE CASCADE,
+    cups_usuario CHAR(512) NOT NULL,
+    cups_nombrejob CHAR(512) NOT NULL,
+    cups_jobid INTEGER,
+    cups_copias INTEGER NOT NULL,
+    fecha DATE NOT NULL
+);
+success!
+timestamp: 2014-03-10T09:52:00.882520
+CREATE TABLE tbl_correo(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    estado INTEGER REFERENCES tbl_estado(id) ON DELETE CASCADE,
+    htmlcontenido TEXT,
+    txtcontenido TEXT,
+    puerto INTEGER,
+    usuario TEXT,
+    clave TEXT,
+    servidor TEXT,
+    tls TEXT,
+    bandera TEXT,
+    enviado TEXT,
+    rutafinal TEXT,
+    rutaanexo TEXT,
+    archivoanexo TEXT,
+    confirmar TEXT
+);
+success!
+timestamp: 2014-03-10T09:52:01.036185
+CREATE TABLE tbl_adjuntos(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    nombre TEXT NOT NULL,
+    dirpdf TEXT NOT NULL,
+    estado INTEGER REFERENCES tbl_estado(id) ON DELETE CASCADE,
+    dirpcl TEXT NOT NULL
+);
+success!
+timestamp: 2014-03-10T09:52:01.161879
+CREATE TABLE tbl_cliente(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    busqueda TEXT NOT NULL,
+    dircorreo TEXT NOT NULL,
+    imprimir INTEGER NOT NULL,
+    pdf INTEGER NOT NULL,
+    correo INTEGER NOT NULL,
+    estado INTEGER REFERENCES tbl_estado(id) ON DELETE CASCADE
+);
+success!
+timestamp: 2014-03-10T09:52:01.330735
+CREATE TABLE tbl_logenvio(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    estado INTEGER REFERENCES tbl_estado(id) ON DELETE CASCADE,
+    idjob INTEGER REFERENCES tbl_spool(id) ON DELETE CASCADE,
+    fecha DATE NOT NULL,
+    enviar TEXT NOT NULL,
+    copia TEXT NOT NULL,
+    bscopia TEXT NOT NULL,
+    asunto TEXT NOT NULL,
+    adjunto TEXT NOT NULL,
+    bandera TEXT NOT NULL,
+    rutafinal TEXT NOT NULL
+);
+success!
+timestamp: 2014-03-10T09:52:01.487005
+CREATE TABLE tbl_archivo(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    archivo TEXT NOT NULL,
+    funcion INTEGER REFERENCES tbl_estado(id) ON DELETE CASCADE,
+    descripcion TEXT NOT NULL,
+    idjob INTEGER REFERENCES tbl_spool(id) ON DELETE CASCADE,
+    fecha DATE NOT NULL
+);
+success!

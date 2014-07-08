@@ -1,0 +1,6 @@
+%-12345X@PJL JOB NAME ="Fletes_Gerlein"
+@PJL COMMENT ** Facil - SimpleSoft **
+@PJL ENTER LANGUAGE=PCL
+*p100x1000Y Final final
+salida.
+ok

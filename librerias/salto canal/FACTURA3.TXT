@@ -1,0 +1,317 @@
+004                                                                                                           RI
+   1   BD:
+   0       33200
+   2       OLIMPICA S.A.                           OLIMPICA S.A.                              ZN:020 SC:C23    368655       1
+   1       CRA 123 #15A-51 ENTRADA RECODO FONTIBON CRA 123 #15A-51 ENTRADA RECODO FONTIBON
+   1       SANTAFE DE BOGOTA                       SANTAFE DE BOGOTA                           SO14000152     11/07/14
+   1       Cundinamarca                            Cundinamarca
+   1                             RI  782167
+   0       890.107.487-3                                                                       OC PRUEBA OLIMPICA NO 16
+   3                                                                             2.00
+   0                                                         2,606 C3
+   0                                                                       6                  12    49,944.00       99,888.00
+   0 16961    EOBMULTIPIS+ EOBQGRPTO PE
+   1                                                                             2.00
+   0                                                         2,729 C3
+   0                                                                      12                  24    61,296.00      122,592.00
+   0 17158    EOB QGRASAPIST LIM GTS DP500ML
+   1                                                                             2.00
+   0                                                           500 C3
+   0                                                                      12                  24    47,928.00       95,856.00
+   0 20159    EASY OFF QUITAGRA NARANJA RPTO
+   1                                                                             2.00
+   0                                                           500 C3
+   0                                                                      12                  24    73,608.00      147,216.00
+   0 20199    VANISH PRE-LAVADO PIST 500ML
+   1                                                                             2.00
+   0                                                           500 C3
+   0                                                                      12                  24    52,452.00      104,904.00
+   0 20200    VANISH PRE-LAVADO RPTO 500ML
+   1          SUBTOTAL IVA 16%                                                                                     570,456.00
+042       570,456.00               11,409.12               559,046.88                 89,446.00              648,492.88
+   1Dinamica Comercial Olimpi      11,409.12
+   1               Facturas RI 905001 a RI 940000 Resoluci¢n 50000326851 2012/11/16
+   3JMUNOZ                                                                                                        RI  782167
+   1                                                                                               10.00     108   27/05/14
+004                                                                                                           RI
+   1   BD:
+   0       33200
+   2       OLIMPICA S.A.                           OLIMPICA S.A.                              ZN:010 SC:C99    141392       1
+   1       BARRANQUILLA                            BARRANQUILLA
+   1       COD                                     COD                                         SO14000149     11/07/14
+   1                                    .                                       .
+   1                             RI  782168
+   0       890.107.487-3                                                                       OC PRUEBA OLIMPICA NO 13
+   3                                                                             2.00
+   0                                                           275 GM
+   0                                                                      24                  48    90,168.00      180,336.00
+   0 15379    EASY OFF HORNOS LIMON 275G
+   1                                                                             2.00
+   0                                                           275 GM
+   0                                                                      24                  48    90,168.00      180,336.00
+   0 15380    EASY OFF HORNOS CORRIENT 275G
+   1                                                                             2.00
+   0                                                         2,606 C3
+   0                                                                       6                  12    49,944.00       99,888.00
+   0 16961    EOBMULTIPIS+ EOBQGRPTO PE
+   1                                                                             2.00
+   0                                                             0 CA
+   0                                                                       6                  12    33,552.00       67,104.00
+   0 17156    EOB QGRASA LIMON RPTO X2 500ML
+   1                                                                             2.00
+   0                                                         1,800 C3
+   0                                                                       6                  12    50,280.00      100,560.00
+   0 20532    VANISH LIQ BLANCO 2X 1800ML
+   1          SUBTOTAL IVA 16%                                                                                     628,224.00
+042       628,224.00               12,564.48               615,659.52                 98,506.00              714,165.52
+   1Dinamica Comercial Olimpi      12,564.48
+   1               Facturas RI 905001 a RI 940000 Resoluci¢n 50000326851 2012/11/16
+   3JMUNOZ                                                                                                        RI  782168
+   1                                                                                               10.00     132   27/05/14
+004                                                                                                           RI
+   1   BD:
+   0       33200
+   2       OLIMPICA S.A.                           OLIMPICA S.A.                              ZN:010 SC:C99    141392       1
+   1       BARRANQUILLA                            BARRANQUILLA
+   1       COD                                     COD                                         SO14000150     11/07/14
+   1                                    .                                       .
+   1                             RI  782169
+   0       890.107.487-3                                                                       OC PRUEBA OLIMPICA NO 14
+   3                                                                             3.00
+   0                                                           275 GM
+   0                                                                      24                  72    90,168.00      270,504.00
+   0 15379    EASY OFF HORNOS LIMON 275G
+   1                                                                             3.00
+   0                                                             0 CA
+   0                                                                       6                  18    33,552.00      100,656.00
+   0 17156    EOB QGRASA LIMON RPTO X2 500ML
+   1                                                                             3.00
+   0                                                           500 C3
+   0                                                                      12                  36    47,928.00      143,784.00
+   0 20159    EASY OFF QUITAGRA NARANJA RPTO
+   1                                                                             3.00
+   0                                                           500 C3
+   0                                                                      12                  36    52,452.00      157,356.00
+   0 20200    VANISH PRE-LAVADO RPTO 500ML
+   1                                                                             3.00
+   0                                                           900 C3
+   0                                                                      12                  36    55,764.00      167,292.00
+   0 20527    VANISH LIQUIDO MAX 2X  900ML
+   1          SUBTOTAL IVA 16%                                                                                     839,592.00
+042       839,592.00               16,791.84               822,800.16                131,647.00              954,447.16
+   1Dinamica Comercial Olimpi      16,791.84
+   1               Facturas RI 905001 a RI 940000 Resoluci¢n 50000326851 2012/11/16
+   3JMUNOZ                                                                                                        RI  782169
+   1                                                                                               15.00     198   27/05/14
+004                                                                                                           RI
+   1   BD:
+   0       33200
+   2       OLIMPICA S.A.                           OLIMPICA S.A.                              ZN:010 SC:C23    112006       1
+   1       CARRERA 37 #10-303 P.IND LA ESPERANZA   CARRERA 37 #10-303 P.IND LA ESPERANZA
+   1       YUMBO                                   YUMBO                                       SO14000151     11/07/14
+   1       Valle del Cauca                         Valle del Cauca
+   1                             RI  782170
+   0       890.107.487-3                                                                       OC PRUEBA OLIMPICA NO 15
+   3                                                                             1.00
+   0                                                           275 GM
+   0                                                                      24                  24    90,168.00       90,168.00
+   0 15379    EASY OFF HORNOS LIMON 275G
+   1                                                                             1.00
+   0                                                           275 GM
+   0                                                                      24                  24    90,168.00       90,168.00
+   0 15380    EASY OFF HORNOS CORRIENT 275G
+   1                                                                             1.00
+   0                                                           500 C3
+   0                                                                      12                  12    52,452.00       52,452.00
+   0 20200    VANISH PRE-LAVADO RPTO 500ML
+   1                                                                             1.00
+   0                                                           500 C3
+   0                                                                      12                  12    48,360.00       48,360.00
+   0 20213    EASY OFF CRISTAL MANZ.VERD RTO
+   1                                                                             1.00
+   0                                                           900 C3
+   0                                                                      12                  12    55,764.00       55,764.00
+   0 20531    VANISH LIQUIDO BLANCO 2X 900ML
+   1          SUBTOTAL IVA 16%                                                                                     336,912.00
+042       336,912.00                6,738.24               330,173.76                 52,827.00              383,000.76
+   1Dinamica Comercial Olimpi       6,738.24
+   1               Facturas RI 905001 a RI 940000 Resoluci¢n 50000326851 2012/11/16
+   3JMUNOZ                                                                                                        RI  782170
+   1                                                                                                5.00      84   27/05/14
+004                                                                                                           RI
+   1   BD:
+   0       33200
+   2       931 OLIMPICA S.A.                       931 OLIMPICA S.A.                          ZN:040 SC:C23    154492       1
+   1       CALLE 18 # 13-360 SOLEDAD ATLANTICO     CALLE 18 # 13-360 SOLEDAD ATLANTICO
+   1       BARRANQUILLA                            BARRANQUILLA                                SO14000153     11/07/14
+   1       Atl†ntico                               Atl†ntico
+   1                             RI  782171
+   0       890.107.487-3                                                                       OC PRUEBA OLIMPICA NO 17
+   3                                                                             3.00
+   0                                                           275 GM
+   0                                                                      24                  72    90,168.00      270,504.00
+   0 15379    EASY OFF HORNOS LIMON 275G
+   1                                                                             3.00
+   0                                                           275 GM
+   0                                                                      24                  72    90,168.00      270,504.00
+   0 15380    EASY OFF HORNOS CORRIENT 275G
+   1                                                                             3.00
+   0                                                         2,606 C3
+   0                                                                       6                  18    49,944.00      149,832.00
+   0 16961    EOBMULTIPIS+ EOBQGRPTO PE
+   1                                                                             3.00
+   0                                                           500 C3
+   0                                                                      12                  36    47,928.00      143,784.00
+   0 20159    EASY OFF QUITAGRA NARANJA RPTO
+   1                                                                             3.00
+   0                                                           500 C3
+   0                                                                      12                  36    73,608.00      220,824.00
+   0 20199    VANISH PRE-LAVADO PIST 500ML
+   1          SUBTOTAL IVA 16%                                                                                   1,055,448.00
+042     1,055,448.00               21,108.96             1,034,339.04                165,494.00            1,199,833.04
+   1Dinamica Comercial Olimpi      21,108.96
+   1               Facturas RI 905001 a RI 940000 Resoluci¢n 50000326851 2012/11/16
+   3JMUNOZ                                                                                                        RI  782171
+   1                                                                                               15.00     234   27/05/14
+004                                                                                                           RI
+   1   BD:
+   0       33200
+   2       ALMACENES êXITO S.A.                                                               ZN:020 SC:C39    141436       1
+   1       Km 4 v°a Funza Parque Ind. San Carlos
+   1       SANTAFE DE BOGOTA                                                                                  26/06/14
+   1       Cundinamarca
+   1                             RI  782172
+   0       890.900.608-9                                                                       OC PRUEBA OLIMPICA NO 18
+   3                                                                             2.00
+   0                                                           275 GM
+   0                                                                      24                  48    90,168.00      180,336.00
+   0 15379    EASY OFF HORNOS LIMON 275G
+   1                                                                             2.00
+   0                                                         2,606 C3
+   0                                                                       6                  12    49,944.00       99,888.00
+   0 16961    EOBMULTIPIS+ EOBQGRPTO PE
+   1                                                                             2.00
+   0                                                           500 C3
+   0                                                                      12                  24    47,928.00       95,856.00
+   0 20159    EASY OFF QUITAGRA NARANJA RPTO
+   1                                                                             2.00
+   0                                                           500 C3
+   0                                                                      12                  24    73,608.00      147,216.00
+   0 20199    VANISH PRE-LAVADO PIST 500ML
+   1                                                                             2.00
+   0                                                           500 C3
+   0                                                                      12                  24    48,360.00       96,720.00
+   0 20213    EASY OFF CRISTAL MANZ.VERD RTO
+   1          SUBTOTAL IVA 16%                                                                                     620,016.00
+042       620,016.00                     .00               620,016.00                 99,203.00              719,219.00
+   1                                     .00
+   1               Facturas RI 905001 a RI 940000 Resoluci¢n 50000326851 2012/11/16
+   3JMUNOZ                                                                                                        RI  782172
+   1                                                                                               10.00     132   27/05/14
+004                                                                                                           RI
+   1   BD:
+   0       33200
+   2       COPIDROGAS COTA - BODEGA                COPIDROGAS COTA - BODEGA                   ZN:020 SC:C27    395034       1
+   1       KILOMETRO 1 VIA SIBERIA/COTA LOTE 2     KILOMETRO 1 VIA SIBERIA/COTA LOTE 2
+   1       SANTAFE DE BOGOTA                       SANTAFE DE BOGOTA                           SO14000158     26/06/14
+   1       Cundinamarca                            Cundinamarca
+   1                             RI  782173
+   0       860.026.123-0                                                                       OC PRUEBA OLIMPICA NO 19
+   3                                                                             1.00
+   0                                                             0 CA
+   0                                                                       6                   6    33,552.00       33,552.00
+   0 17156    EOB QGRASA LIMON RPTO X2 500ML
+   1                                                                             1.00
+   0                                                           500 C3
+   0                                                                      12                  12    47,928.00       47,928.00
+   0 20159    EASY OFF QUITAGRA NARANJA RPTO
+   1                                                                             1.00
+   0                                                           500 C3
+   0                                                                      12                  12    52,452.00       52,452.00
+   0 20200    VANISH PRE-LAVADO RPTO 500ML
+   1                                                                             1.00
+   0                                                           500 C3
+   0                                                                      12                  12    48,360.00       48,360.00
+   0 20213    EASY OFF CRISTAL MANZ.VERD RTO
+   1                                                                             1.00
+   0                                                           600 C3
+   0                                                                      12                  12    75,924.00       75,924.00
+   0 20421    ESYOF BANG MULTI PIST,12X500ML
+   1                                                                             1.00
+   0                                                           900 C3
+   0                                                                      12                  12    55,764.00       55,764.00
+   0 20527    VANISH LIQUIDO MAX 2X  900ML
+   1                                                                             1.00
+   0                                                           900 C3
+   0                                                                      12                  12    55,764.00       55,764.00
+   0 20531    VANISH LIQUIDO BLANCO 2X 900ML
+   1                                                                             1.00
+   0                                                         1,847 C3
+   0                                                                      12                  12    55,764.00       55,764.00
+   0 20563    VANISH LIQ EXTRA HIGIENE 845ML
+   1                                                                             1.00
+   0                                                             0 C3
+   0                                                                      12                  12   146,256.00      146,256.00
+   0 20564    VANISH POL EXTRA HIGIENE 420GR
+   1          SUBTOTAL IVA 16%                                                                                     571,764.00
+042       571,764.00                     .00               571,764.00                105,908.00              677,672.00
+   1                                     .00
+   1               Facturas RI 905001 a RI 940000 Resoluci¢n 50000326851 2012/11/16
+   3JMUNOZ                                                                                                        RI  782173
+   1                                                                                                9.00     102   27/05/14
+004                                                                                                           RI
+   1   BD:
+   0       33200
+   2       MAKRO SUPERMAYORISTA S.A.S.             MAKRO SUPERMAYORISTA S.A.S.                ZN:020 SC:C22    294724       1
+   1       CALLE 30 ESQUINA CRA 30 SOLEDAD         CALLE 30 ESQUINA CRA 30 SOLEDAD
+   1       BARRANQUILLA                            BARRANQUILLA                                SO14000156     26/06/14
+   1       Atl†ntico                               Atl†ntico
+   1                             RI  782174
+   0       900.059.238-5                                                                       OC PRUEBA OLIMPICA NO 19
+   3                                                                             1.00
+   0                                                           275 GM
+   0                                                                      24                  24    90,168.00       90,168.00
+   0 15379    EASY OFF HORNOS LIMON 275G
+   1                                                                             1.00
+   0                                                           275 GM
+   0                                                                      24                  24    90,168.00       90,168.00
+   0 15380    EASY OFF HORNOS CORRIENT 275G
+   1                                                                             1.00
+   0                                                         2,606 C3
+   0                                                                       6                   6    49,944.00       49,944.00
+   0 16961    EOBMULTIPIS+ EOBQGRPTO PE
+   1                                                                             1.00
+   0                                                             0 CA
+   0                                                                       6                   6    33,552.00       33,552.00
+   0 17156    EOB QGRASA LIMON RPTO X2 500ML
+   1                                                                             1.00
+   0                                                         2,729 C3
+   0                                                                      12                  12    61,296.00       61,296.00
+   0 17158    EOB QGRASAPIST LIM GTS DP500ML
+   1                                                                             1.00
+   0                                                           500 C3
+   0                                                                      12                  12    73,608.00       73,608.00
+   0 20199    VANISH PRE-LAVADO PIST 500ML
+   1                                                                             1.00
+   0                                                             0 CA
+   0                                                                      12                  12    47,928.00       47,928.00
+   0 20215    EASY OFF QUITAG .MANZ.VERD RTO
+   1                                                                             1.00
+   0                                                           600 C3
+   0                                                                      12                  12    75,924.00       75,924.00
+   0 20421    ESYOF BANG MULTI PIST,12X500ML
+   1                                                                             1.00
+   0                                                         1,847 C3
+   0                                                                      12                  12    55,764.00       55,764.00
+   0 20563    VANISH LIQ EXTRA HIGIENE 845ML
+   1                                                                             1.00
+   0                                                             0 C3
+   0                                                                      12                  12   146,256.00      146,256.00
+   0 20564    VANISH POL EXTRA HIGIENE 420GR
+   1          SUBTOTAL IVA 16%                                                                                     724,608.00
+042       724,608.00                     .00               724,608.00                115,936.00              840,544.00
+   1                                     .00
+   1               Facturas RI 905001 a RI 940000 Resoluci¢n 50000326851 2012/11/16
+   3JMUNOZ                                                                                                        RI  782174
+   1                                                                                               10.00     132   27/05/14
+

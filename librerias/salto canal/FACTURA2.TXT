@@ -1,0 +1,118 @@
+004                                                                                                           RI
+   1   BD:
+   0       33200
+   2       OLIMPICA S.A.                           OLIMPICA S.A.                              ZN:010 SC:C99    141392       1
+   1       BARRANQUILLA                            BARRANQUILLA
+   1       COD                                     COD                                         SO14000140     11/07/14
+   1                                    .                                       .
+   1                             RI  782158
+   0       890.107.487-3                                                                       OC PRUBEBA OLIMPICA NO 4
+   3                                                                             1.00
+   0                                                         2,729 C3
+   0                                                                      12                  12    61,296.00       61,296.00
+   0 17158    EOB QGRASAPIST LIM GTS DP500ML
+   1                                                                             1.00
+   0                                                           500 C3
+   0                                                                      12                  12    73,608.00       73,608.00
+   0 20199    VANISH PRE-LAVADO PIST 500ML
+   1                                                                             1.00
+   0                                                           500 C3
+   0                                                                      12                  12    52,452.00       52,452.00
+   0 20200    VANISH PRE-LAVADO RPTO 500ML
+   1                                                                             1.00
+   0                                                         1,800 C3
+   0                                                                       6                   6    50,280.00       50,280.00
+   0 20528    VANISH LIQUIDO  MAX 2X  1800ML
+   1                                                                             1.00
+   0                                                           900 C3
+   0                                                                      12                  12    55,764.00       55,764.00
+   0 20531    VANISH LIQUIDO BLANCO 2X 900ML
+   1                                                                             1.00
+   0                                                         1,847 C3
+   0                                                                      12                  12    55,764.00       55,764.00
+   0 20563    VANISH LIQ EXTRA HIGIENE 845ML
+   1          SUBTOTAL IVA 16%                                                                                     349,164.00
+042       349,164.00                6,983.28               342,180.72                 54,749.00              396,929.72
+   1Dinamica Comercial Olimpi       6,983.28
+   1               Facturas RI 905001 a RI 940000 Resoluci¢n 50000326851 2012/11/16
+   3JMUNOZ                                                                                                        RI  782158
+   1                                                                                                6.00      66   27/05/14
+004                                                                                                           RI
+   1   BD:
+   0       33200
+   2       931 OLIMPICA S.A.                       931 OLIMPICA S.A.                          ZN:040 SC:C23    154492       1
+   1       CALLE 18 # 13-360 SOLEDAD ATLANTICO     CALLE 18 # 13-360 SOLEDAD ATLANTICO
+   1       BARRANQUILLA                            BARRANQUILLA                                SO14000141     11/07/14
+   1       Atl ntico                               Atl ntico
+   1                             RI  782159
+   0       890.107.487-3                                                                       OC PRUEBA OLIMPICA NO 5
+   3                                                                             1.00
+   0                                                           275 GM
+   0                                                                      24                  24    90,168.00       90,168.00
+   0 15379    EASY OFF HORNOS LIMON 275G
+   1                                                                             1.00
+   0                                                         2,606 C3
+   0                                                                       6                   6    49,944.00       49,944.00
+   0 16961    EOBMULTIPIS+ EOBQGRPTO PE
+   1                                                                             1.00
+   0                                                           500 C3
+   0                                                                      12                  12    47,928.00       47,928.00
+   0 20159    EASY OFF QUITAGRA NARANJA RPTO
+   1                                                                             1.00
+   0                                                           900 C3
+   0                                                                      12                  12    55,764.00       55,764.00
+   0 20527    VANISH LIQUIDO MAX 2X  900ML
+   1                                                                             1.00
+   0                                                         1,800 C3
+   0                                                                       6                   6    50,280.00       50,280.00
+   0 20528    VANISH LIQUIDO  MAX 2X  1800ML
+   1                                                                             1.00
+   0                                                         1,800 C3
+   0                                                                       6                   6    50,280.00       50,280.00
+   0 20532    VANISH LIQ BLANCO 2X 1800ML
+   1          SUBTOTAL IVA 16%                                                                                     344,364.00
+042       344,364.00                6,887.28               337,476.72                 53,996.00              391,472.72
+   1Dinamica Comercial Olimpi       6,887.28
+   1               Facturas RI 905001 a RI 940000 Resoluci¢n 50000326851 2012/11/16
+   3JMUNOZ                                                                                                        RI  782159
+   1                                                                                                6.00      66   27/05/14
+004                                                                                                           RI
+   1   BD:
+   0       33200
+   2       MAKRO SUPERMAYORISTA S.A.S.             MAKRO SUPERMAYORISTA S.A.S.                ZN:020 SC:C22    294724       1
+   1       CALLE 30 ESQUINA CRA 30 SOLEDAD         CALLE 30 ESQUINA CRA 30 SOLEDAD
+   1       BARRANQUILLA                            BARRANQUILLA                                SO14000142     26/06/14
+   1       Atl ntico                               Atl ntico
+   1                             RI  782160
+   0       900.059.238-5                                                                       OC PRUEBA OLIMPICA NO 6
+   3                                                                             1.00
+   0                                                           275 GM
+   0                                                                      24                  24    90,168.00       90,168.00
+   0 15379    EASY OFF HORNOS LIMON 275G
+   1                                                                             1.00
+   0                                                         2,606 C3
+   0                                                                       6                   6    49,944.00       49,944.00
+   0 16961    EOBMULTIPIS+ EOBQGRPTO PE
+   1                                                                             1.00
+   0                                                           500 C3
+   0                                                                      12                  12    73,608.00       73,608.00
+   0 20199    VANISH PRE-LAVADO PIST 500ML
+   1                                                                             1.00
+   0                                                           500 C3
+   0                                                                      12                  12    48,360.00       48,360.00
+   0 20213    EASY OFF CRISTAL MANZ.VERD RTO
+   1                                                                             1.00
+   0                                                           600 C3
+   0                                                                      12                  12    75,924.00       75,924.00
+   0 20421    ESYOF BANG MULTI PIST,12X500ML
+   1                                                                             1.00
+   0                                                           900 C3
+   0                                                                      12                  12    55,764.00       55,764.00
+   0 20531    VANISH LIQUIDO BLANCO 2X 900ML
+   1          SUBTOTAL IVA 16%                                                                                     393,768.00
+042       393,768.00                     .00               393,768.00                 63,003.00              456,771.00
+   1                                     .00
+   1               Facturas RI 905001 a RI 940000 Resoluci¢n 50000326851 2012/11/16
+   3JMUNOZ                                                                                                        RI  782160
+   1                                                                                                6.00      78   27/05/14
+

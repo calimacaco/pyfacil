@@ -1,0 +1,9 @@
+('Z:\\pycorreo\\dist\\pycorreo.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1401211169L)

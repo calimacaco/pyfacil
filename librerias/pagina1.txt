@@ -1,0 +1,21 @@
+linea  1 basedatos.py	  ctrlarchivo.pyc   
+linea  2 f2s_seleccion.pyc  prueba.py
+linea  3 basedatos.pyc	  ctrlog.py	    
+linea  4 facil.log	       prueba.pyc
+linea  5 borrarpcl.py	  ctrlog.pyc	    GsDll.py	       registro.py
+linea  6 captura.py	  encriptar.py	    GsDll.pyc	       registro.pyc
+linea  7 captura.pyc	  encriptar.pyc     __init__.py        saltocanal.py
+linea  8 ConvertImagen.py  EnvioCorreo.py    
+linea  9 __init__.pyc       selectexto.py
+linea 10 ctlspool.py	  EnvioCorreo.pyc   pagina1.txt
+a linea 11 ctrlarchivo.py	  :f2s_seleccion.py :pagina.py fin
+a linea 12 f2s_seleccion.pyc  :prueba.py
+a linea 13 basedatos.pyc	     :ctrlog.py	    
+a linea 14 facil.log	         :prueba.pyc
+alinea 15 borrarpcl.py	     :ctrlog.pyc	    :GsDll.py	       :registro.py
+blinea 16 captura.py	     :encriptar.py	    :GsDll.pyc	       :registro.pyc
+blinea 17 captura.pyc	     :encriptar.pyc     :__init__.py       :saltocanal.py
+clinea 18 ConvertImagen.py   :EnvioCorreo.py    
+clinea 19 __init__.pyc       :selectexto.py
+dlinea 20 ctlspool.py	     :EnvioCorreo.pyc   :pagina1.txt
+dlinea 21 ctrlarchivo.py	  f2s_seleccion.py  :pagina.py fin

@@ -1,0 +1,83 @@
+005                     BD:
+   0                        33200
+   2       MAKRO SUPERMAYORISTA S.A.S.                        NOTA CREDITO                   ND   122562
+   1       CALLE 30 ESQUINA CRA 30 SOLEDAD
+   1       BARRANQUILLA
+   1       900.059.238-5                                  294724        RI  782160    SO 14000142   VA14000051   28/11/06
+   1                                               ZN:020 SC:C22
+   2                                   020   No pedido
+   3   15379                                                                                  90,168.00         90,168.00-
+   0              EASY OFF HORNOS LIMON 275G                                   1.00-CA
+   1   16961                                                                                  49,944.00         49,944.00-
+   0              EOBMULTIPIS+ EOBQGRPTO PE                                    1.00-CA
+   1   20199                                                                                  73,608.00         73,608.00-
+   0              VANISH PRE-LAVADO PIST 500ML                                 1.00-CA
+   1   20213                                                                                  48,360.00         48,360.00-
+   0              EASY OFF CRISTAL MANZ.VERD RTO                               1.00-CA
+   1   20421                                                                                  75,924.00         75,924.00-
+   0              ESYOF BANG MULTI PIST,12X500ML                               1.00-CA
+   1   20531                                                                                  55,764.00         55,764.00-
+   0              VANISH LIQUIDO BLANCO 2X 900ML                               1.00-CA
+   2              SUBTOTAL IVA 16%                                                                              393,768.00-
+036       393,768.00-                .00                  393,768.00-         63,003.00-                        456,771.00-
+   1                                 .00
+   2       JMUNOZ
+005                     BD:
+   0                        33200
+   2       OLIMPICA S.A.                                      NOTA CREDITO                   ND   122563
+   1       BARRANQUILLA
+   1       COD
+   1       890.107.487-3                                  141392        RI  782161    SO 14000143   VA14000052   28/11/06
+   1                                               ZN:010 SC:C99
+   2                                   020   No pedido
+   3   16961                                                                                  49,944.00         49,944.00-
+   0              EOBMULTIPIS+ EOBQGRPTO PE                                    1.00-CA
+   1   17156                                                                                  33,552.00         33,552.00-
+   0              EOB QGRASA LIMON RPTO X2 500ML                               1.00-CA
+   1   20199                                                                                  73,608.00         73,608.00-
+   0              VANISH PRE-LAVADO PIST 500ML                                 1.00-CA
+   1   20213                                                                                  48,360.00         48,360.00-
+   0              EASY OFF CRISTAL MANZ.VERD RTO                               1.00-CA
+   2              SUBTOTAL IVA 16%                                                                              205,464.00-
+036       205,464.00-           4,109.28-                 201,354.72-         32,217.00-                        233,571.72-
+   1Dinamica Comercial Oli      4,109.28-
+   2       JMUNOZ
+005                     BD:
+   0                        33200
+   2       OLIMPICA S.A.                                      NOTA CREDITO                   ND   122564
+   1       BARRANQUILLA
+   1       COD
+   1       890.107.487-3                                  141392        RI  782162    SO 14000144   VA14000053   28/11/06
+   1                                               ZN:010 SC:C99
+   2                                   020   No pedido
+   3   16961                                                                                  49,944.00         49,944.00-
+   0              EOBMULTIPIS+ EOBQGRPTO PE                                    1.00-CA
+   1   17156                                                                                  33,552.00         33,552.00-
+   0              EOB QGRASA LIMON RPTO X2 500ML                               1.00-CA
+   1   17158                                                                                  61,296.00         61,296.00-
+   0              EOB QGRASAPIST LIM GTS DP500ML                               1.00-CA
+   2              SUBTOTAL IVA 16%                                                                              144,792.00-
+036       144,792.00-           2,895.84-                 141,896.16-         22,703.00-                        164,599.16-
+   1Dinamica Comercial Oli      2,895.84-
+   2       JMUNOZ
+005                     BD:
+   0                        33200
+   2       OLIMPICA S.A.                                      NOTA CREDITO                   ND   122565
+   1       CARRERA 37 #10-303 P.IND LA ESPERANZA
+   1       YUMBO
+   1       890.107.487-3                                  112006        RI  782164    SO 14000145   VA14000054   28/11/06
+   1                                               ZN:010 SC:C23
+   2                                   020   No pedido
+   3   17158                                                                                  61,296.00         61,296.00-
+   0              EOB QGRASAPIST LIM GTS DP500ML                               1.00-CA
+   1   20215                                                                                  47,928.00         47,928.00-
+   0              EASY OFF QUITAG .MANZ.VERD RTO                               1.00-CA
+   1   20421                                                                                  75,924.00         75,924.00-
+   0              ESYOF BANG MULTI PIST,12X500ML                               1.00-CA
+   1   20531                                                                                  55,764.00         55,764.00-
+   0              VANISH LIQUIDO BLANCO 2X 900ML                               1.00-CA
+   2              SUBTOTAL IVA 16%                                                                              240,912.00-
+036       240,912.00-           4,818.24-                 236,093.76-         37,775.00-                        273,868.76-
+   1Dinamica Comercial Oli      4,818.24-
+   2       JMUNOZ
+

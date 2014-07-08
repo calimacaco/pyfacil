@@ -1,0 +1,7 @@
+<dinamico>
+	<factura>
+		<item fila=1></item>
+		<item columna=1></item>
+		<item texto="Factura de venta">	</item>
+	</factura>
+</dinamico>

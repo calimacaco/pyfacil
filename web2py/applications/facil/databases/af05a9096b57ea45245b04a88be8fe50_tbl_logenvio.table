@@ -1,0 +1,119 @@
+(dp1
+S'rutafinal'
+p2
+(dp3
+S'type'
+p4
+S'text'
+p5
+sS'sortable'
+p6
+I11
+sS'sql'
+p7
+S'TEXT NOT NULL'
+p8
+ssS'copia'
+p9
+(dp10
+g4
+g5
+sg6
+I6
+sg7
+S'TEXT NOT NULL'
+p11
+ssS'fecha'
+p12
+(dp13
+g4
+S'date'
+p14
+sg6
+I4
+sg7
+S'DATE NOT NULL'
+p15
+ssS'adjunto'
+p16
+(dp17
+g4
+g5
+sg6
+I9
+sg7
+S'TEXT NOT NULL'
+p18
+ssS'asunto'
+p19
+(dp20
+g4
+g5
+sg6
+I8
+sg7
+S'TEXT NOT NULL'
+p21
+ssS'enviar'
+p22
+(dp23
+g4
+g5
+sg6
+I5
+sg7
+S'TEXT NOT NULL'
+p24
+ssS'bandera'
+p25
+(dp26
+g4
+g5
+sg6
+I10
+sg7
+S'TEXT NOT NULL'
+p27
+ssS'bscopia'
+p28
+(dp29
+g4
+g5
+sg6
+I7
+sg7
+S'TEXT NOT NULL'
+p30
+ssS'idjob'
+p31
+(dp32
+g4
+S'reference tbl_spool'
+p33
+sg6
+I3
+sg7
+S'INTEGER REFERENCES tbl_spool(id) ON DELETE CASCADE'
+p34
+ssS'estado'
+p35
+(dp36
+g4
+S'reference tbl_estado'
+p37
+sg6
+I2
+sg7
+S'INTEGER REFERENCES tbl_estado(id) ON DELETE CASCADE'
+p38
+ssS'id'
+p39
+(dp40
+g4
+g39
+sg6
+I1
+sg7
+S'INTEGER PRIMARY KEY AUTOINCREMENT'
+p41
+ss.

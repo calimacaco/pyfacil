@@ -1,0 +1,90 @@
+(dp1
+S'cups_nombrejob'
+p2
+(dp3
+S'type'
+p4
+S'string'
+p5
+sS'sortable'
+p6
+I5
+sS'sql'
+p7
+S'CHAR(512) NOT NULL'
+p8
+ssS'cups_copias'
+p9
+(dp10
+g4
+S'integer'
+p11
+sg6
+I7
+sg7
+S'INTEGER NOT NULL'
+p12
+ssS'fecha'
+p13
+(dp14
+g4
+S'date'
+p15
+sg6
+I8
+sg7
+S'DATE NOT NULL'
+p16
+ssS'idestado'
+p17
+(dp18
+g4
+S'reference tbl_estado'
+p19
+sg6
+I2
+sg7
+S'INTEGER REFERENCES tbl_estado(id) ON DELETE CASCADE'
+p20
+ssS'cups_jobid'
+p21
+(dp22
+g4
+g11
+sg6
+I6
+sg7
+S'INTEGER'
+p23
+ssS'idimpresora'
+p24
+(dp25
+g4
+S'reference tbl_impresora'
+p26
+sg6
+I3
+sg7
+S'INTEGER REFERENCES tbl_impresora(id) ON DELETE CASCADE'
+p27
+ssS'id'
+p28
+(dp29
+g4
+g28
+sg6
+I1
+sg7
+S'INTEGER PRIMARY KEY AUTOINCREMENT'
+p30
+ssS'cups_usuario'
+p31
+(dp32
+g4
+g5
+sg6
+I4
+sg7
+S'CHAR(512) NOT NULL'
+p33
+ss.

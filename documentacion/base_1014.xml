@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- SQL XML created by WWW SQL Designer, http://code.google.com/p/wwwsqldesigner/ -->
+<!-- Active URL: file:///home/marco/Descargas/tools/wwwsqldesigner-2.7/index.html -->
+<sql>
+<datatypes db="web2py">
+	<group label="Numeric" color="rgb(238,238,170)">
+		<type label="Integer" length="1" sql="integer" re="INTEGER" quote=""/>
+		<type label="Double precision" length="1" sql="double" re="DOUBLE" quote=""/>
+	</group>
+	<group label="Character" color="rgb(255,200,200)">
+		<type label="String" length="1" sql="string" quote="'"/>
+		<type label="Text" length="1" sql="text" quote="'"/>
+		<type label="BLOB" length="1" sql="blob" quote="'"/>
+	</group>
+	<group label="Date &amp; Time" color="rgb(200,255,200)">
+		<type label="Time" length="0" sql="time" quote="'"/>
+		<type label="Date" length="0" sql="date" quote="'"/>
+		<type label="Datetime" length="0" sql="datetime" quote="'"/>
+	</group>
+	<group label="Miscellaneous" color="rgb(200,200,255)">
+		<type label="Boolean" length="0" sql="boolean" quote=""/>
+		<type label="Upload" length="0" sql="upload" quote=""/>
+		<type label="Password" length="0" sql="password" quote=""/>
+	</group>
+</datatypes><table x="634" y="481" name="tbl_impresora">
+<row name="id" null="1" autoincrement="1">
+<datatype>integer</datatype>
+<default>NULL</default></row>
+<row name="nombre" null="0" autoincrement="0">
+<datatype>string</datatype>
+</row>
+<row name="salidapdl" null="0" autoincrement="0">
+<datatype>integer(1)</datatype>
+<default>0</default><relation table="tbl_pdl" row="id" />
+<comment>0=pcl 1=ps 2=pdf</comment>
+</row>
+<row name="idestado" null="1" autoincrement="0">
+<datatype>integer</datatype>
+<default>NULL</default><relation table="tbl_estado" row="id" />
+</row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<comment>Impresora registradas en el sistema</comment>
+</table>
+<table x="646" y="208" name="tbl_spool">
+<row name="id" null="1" autoincrement="1">
+<datatype>integer</datatype>
+<default>NULL</default></row>
+<row name="idestado" null="0" autoincrement="0">
+<datatype>integer</datatype>
+<relation table="tbl_estado" row="id" />
+</row>
+<row name="idimpresora" null="0" autoincrement="0">
+<datatype>integer</datatype>
+<relation table="tbl_impresora" row="id" />
+</row>
+<row name="cups_usuario" null="0" autoincrement="0">
+<datatype>string</datatype>
+</row>
+<row name="cups_nombrejob" null="0" autoincrement="0">
+<datatype>string</datatype>
+</row>
+<row name="cups_jobid" null="1" autoincrement="0">
+<datatype>integer</datatype>
+<default>NULL</default></row>
+<row name="cups_copias" null="0" autoincrement="0">
+<datatype>integer</datatype>
+</row>
+<row name="fecha" null="0" autoincrement="0">
+<datatype>date</datatype>
+</row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<key type="INDEX" name="">
+<part>idestado</part>
+</key>
+<comment>Control de Spool de impresion</comment>
+</table>
+<table x="358" y="226" name="tbl_estado">
+<row name="id" null="1" autoincrement="1">
+<datatype>integer</datatype>
+<default>NULL</default></row>
+<row name="idgrupo" null="0" autoincrement="0">
+<datatype>integer</datatype>
+</row>
+<row name="valor" null="0" autoincrement="0">
+<datatype>integer</datatype>
+</row>
+<row name="descripcion" null="0" autoincrement="0">
+<datatype>string</datatype>
+</row>
+<row name="orden" null="0" autoincrement="0">
+<datatype>integer</datatype>
+<default>0</default></row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<key type="INDEX" name="">
+<part>idgrupo</part>
+</key>
+<key type="INDEX" name="">
+<part>valor</part>
+</key>
+<comment>control de estados de los modulos</comment>
+</table>
+<table x="918" y="598" name="tbl_pdl">
+<row name="id" null="1" autoincrement="1">
+<datatype>integer</datatype>
+<default>NULL</default></row>
+<row name="descripcion" null="0" autoincrement="0">
+<datatype>text</datatype>
+</row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<comment>lista de pdl disponibles</comment>
+</table>
+<table x="33" y="239" name="tbl_correo">
+<row name="id" null="1" autoincrement="1">
+<datatype>integer</datatype>
+<default>NULL</default></row>
+<row name="estado" null="1" autoincrement="0">
+<datatype>integer</datatype>
+<default>NULL</default><relation table="tbl_estado" row="id" />
+</row>
+<row name="htmlcontenido" null="1" autoincrement="0">
+<datatype>text</datatype>
+<default>NULL</default></row>
+<row name="txtcontenido" null="1" autoincrement="0">
+<datatype>text</datatype>
+<default>NULL</default></row>
+<row name="puerto" null="1" autoincrement="0">
+<datatype>integer</datatype>
+<default>NULL</default></row>
+<row name="usuario" null="1" autoincrement="0">
+<datatype>text</datatype>
+<default>NULL</default></row>
+<row name="clave" null="1" autoincrement="0">
+<datatype>text</datatype>
+<default>NULL</default></row>
+<row name="servidor" null="1" autoincrement="0">
+<datatype>text</datatype>
+<default>NULL</default></row>
+<row name="tls" null="1" autoincrement="0">
+<datatype>text(1)</datatype>
+<default>NULL</default></row>
+<row name="bandera" null="1" autoincrement="0">
+<datatype>text</datatype>
+<default>NULL</default></row>
+<row name="enviado" null="1" autoincrement="0">
+<datatype>text</datatype>
+<default>NULL</default></row>
+<row name="rutafinal" null="1" autoincrement="0">
+<datatype>text</datatype>
+<default>NULL</default></row>
+<row name="rutaanexo" null="1" autoincrement="0">
+<datatype>text</datatype>
+<default>NULL</default></row>
+<row name="archivoanexo" null="1" autoincrement="0">
+<datatype>text</datatype>
+<default>NULL</default></row>
+<row name="confirmar" null="1" autoincrement="0">
+<datatype>text</datatype>
+<default>NULL</default></row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<comment>control trabajo</comment>
+</table>
+<table x="282" y="18" name="tbl_adjuntos">
+<row name="id" null="1" autoincrement="1">
+<datatype>integer</datatype>
+<default>NULL</default></row>
+<row name="nombre" null="0" autoincrement="0">
+<datatype>text</datatype>
+</row>
+<row name="dirpdf" null="0" autoincrement="0">
+<datatype>text</datatype>
+</row>
+<row name="estado" null="0" autoincrement="0">
+<datatype>integer</datatype>
+<relation table="tbl_estado" row="id" />
+</row>
+<row name="dirpcl" null="0" autoincrement="0">
+<datatype>text</datatype>
+</row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<comment>Conectar Archivos pdf a la impresion y/o correo</comment>
+</table>
+<table x="32" y="20" name="tbl_cliente">
+<row name="id" null="1" autoincrement="1">
+<datatype>integer</datatype>
+<default>NULL</default></row>
+<row name="busqueda" null="0" autoincrement="0">
+<datatype>text</datatype>
+</row>
+<row name="dircorreo" null="0" autoincrement="0">
+<datatype>text</datatype>
+</row>
+<row name="imprimir" null="0" autoincrement="0">
+<datatype>integer</datatype>
+</row>
+<row name="pdf" null="0" autoincrement="0">
+<datatype>integer</datatype>
+</row>
+<row name="correo" null="0" autoincrement="0">
+<datatype>integer</datatype>
+</row>
+<row name="estado" null="1" autoincrement="0">
+<datatype>integer</datatype>
+<default>NULL</default><relation table="tbl_estado" row="id" />
+</row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<comment>Clintes para realizar envios</comment>
+</table>
+<table x="364" y="412" name="tbl_logenvio">
+<row name="id" null="1" autoincrement="1">
+<datatype>integer</datatype>
+<default>NULL</default></row>
+<row name="estado" null="0" autoincrement="0">
+<datatype>integer</datatype>
+<relation table="tbl_estado" row="id" />
+</row>
+<row name="idjob" null="0" autoincrement="0">
+<datatype>integer</datatype>
+<relation table="tbl_spool" row="id" />
+</row>
+<row name="fecha" null="0" autoincrement="0">
+<datatype>date</datatype>
+</row>
+<row name="enviar" null="0" autoincrement="0">
+<datatype>text</datatype>
+</row>
+<row name="copia" null="0" autoincrement="0">
+<datatype>text</datatype>
+</row>
+<row name="bscopia" null="0" autoincrement="0">
+<datatype>text</datatype>
+</row>
+<row name="asunto" null="0" autoincrement="0">
+<datatype>text</datatype>
+</row>
+<row name="adjunto" null="0" autoincrement="0">
+<datatype>text</datatype>
+</row>
+<row name="bandera" null="0" autoincrement="0">
+<datatype>text</datatype>
+</row>
+<row name="rutafinal" null="0" autoincrement="0">
+<datatype>text</datatype>
+</row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<comment>registro de envio de correo</comment>
+</table>
+<table x="645" y="11" name="tbl_archivo">
+<row name="id" null="1" autoincrement="1">
+<datatype>integer</datatype>
+<default>NULL</default></row>
+<row name="archivo" null="0" autoincrement="0">
+<datatype>text</datatype>
+</row>
+<row name="idambiente" null="0" autoincrement="0">
+<datatype>integer</datatype>
+<relation table="tbl_ambientes" row="id" />
+</row>
+<row name="descripcion" null="0" autoincrement="0">
+<datatype>text</datatype>
+</row>
+<row name="idjob" null="1" autoincrement="0">
+<datatype>integer</datatype>
+<default>NULL</default><relation table="tbl_spool" row="id" />
+</row>
+<row name="fecha" null="0" autoincrement="0">
+<datatype>date</datatype>
+</row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<comment>Configuracion de toma de archivo</comment>
+</table>
+<table x="954" y="39" name="tbl_ambientes">
+<row name="id" null="1" autoincrement="1">
+<datatype>integer</datatype>
+<default>NULL</default></row>
+<row name="nombre" null="0" autoincrement="0">
+<datatype>string</datatype>
+</row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<comment>Ambientes</comment>
+</table>
+</sql>

@@ -1,0 +1,17 @@
+admin
+captura
+documentacion
+envioarchivo
+facil.py
+filtrocups
+generador
+generadorlgo
+librerias
+modelo
+plugins
+servicio
+snmp
+unirformato
+vista
+windows
+

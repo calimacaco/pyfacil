@@ -1,0 +1,9 @@
+('Z:\\admin\\dist\\administrador.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1399498829L)

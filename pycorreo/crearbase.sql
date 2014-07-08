@@ -1,0 +1,1 @@
+CREATE TABLE config (idcod INTEGER PRIMARY KEY, htmlcontenido , txtcontenido , puerto NUMERIC, usuario TEXT, clave TEXT, servidor TEXT, tls varchar(1), bandera TEXT, enviado TEXT, rutafinal TEXT);

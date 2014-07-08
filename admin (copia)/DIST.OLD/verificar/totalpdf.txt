@@ -1,0 +1,1645 @@
+ Volume in drive Y is DATOS
+ Volume Serial Number is 2086-D5C2
+
+ Directory of Y:\
+
+04/08/2013  09:22 AM            48,095 Scan 001 (11).pdf
+               1 File(s)         48,095 bytes
+
+ Directory of Y:\AAS PREVENT
+
+02/19/2013  06:35 AM           193,209 517823X.pdf
+               1 File(s)        193,209 bytes
+
+ Directory of Y:\ACETATO DE ALUMINIO LOCION
+
+02/07/2013  02:22 PM            35,860 3CL0253.pdf
+02/07/2013  02:21 PM            36,937 3CL0254.pdf
+04/03/2013  01:23 PM            40,607 3CL0493.pdf
+               3 File(s)        113,404 bytes
+
+ Directory of Y:\ACETATO DE ALUMINIO POLVO
+
+02/20/2013  09:57 AM            41,583 3CL0117.pdf
+03/12/2013  08:23 AM            43,493 3CL0365.pdf
+04/08/2013  01:08 PM            49,623 3CL0567.pdf
+               3 File(s)        134,699 bytes
+
+ Directory of Y:\ACIDO ACETILSALICILICO 100mg
+
+03/22/2013  02:57 PM           123,493 3CL0134.pdf
+04/03/2013  11:27 AM           123,457 3CL0181-URUGUAY.pdf
+04/12/2013  07:38 AM           123,347 3CL0363.pdf
+04/09/2013  10:15 AM           123,635 3CL0468.pdf
+               4 File(s)        493,932 bytes
+
+ Directory of Y:\ACTEBRAL RETARD 400mg
+
+02/15/2013  02:49 PM            43,718 3CL0058.pdf
+               1 File(s)         43,718 bytes
+
+ Directory of Y:\ACTONEL OAM 150mg
+
+02/19/2013  06:35 AM           193,209 517825.pdf
+               1 File(s)        193,209 bytes
+
+ Directory of Y:\ADENOCOR 6mg-2ml
+
+02/11/2013  07:32 AM            58,219 12N0310.pdf
+               1 File(s)         58,219 bytes
+
+ Directory of Y:\AFRESYN ACIDO LACTICO
+
+02/21/2013  01:02 PM            33,090 5120143A.pdf
+               1 File(s)         33,090 bytes
+
+ Directory of Y:\AFRESYN AVENA
+
+02/21/2013  01:03 PM            33,412 5140163A.pdf
+               1 File(s)         33,412 bytes
+
+ Directory of Y:\ALDURAZYME
+
+01/28/2013  08:23 AM            35,318 V1001A14.pdf
+04/02/2013  07:38 AM           339,920 V1002A01.pdf
+04/02/2013  07:39 AM           324,876 V1002A05.pdf
+               3 File(s)        700,114 bytes
+
+ Directory of Y:\ALGILASA SUSPENSION CEREZA
+
+04/08/2013  08:59 AM            84,326 3CL0608.pdf
+               1 File(s)         84,326 bytes
+
+ Directory of Y:\ALLEGRA 120mg
+
+01/29/2013  03:26 PM           527,656 250524.pdf
+               1 File(s)        527,656 bytes
+
+ Directory of Y:\ALLEGRA 180mg
+
+02/20/2013  08:22 AM           223,794 307123.pdf
+               1 File(s)        223,794 bytes
+
+ Directory of Y:\ALLEGRA D MM
+
+03/27/2013  05:51 AM           192,358 D3S715.pdf
+               1 File(s)        192,358 bytes
+
+ Directory of Y:\ALLEGRA SUS
+
+03/18/2013  10:32 AM            66,522 247880.pdf
+01/29/2013  02:50 PM           512,090 248115.pdf
+02/07/2013  08:25 AM           364,830 251132.pdf
+               3 File(s)        943,442 bytes
+
+ Directory of Y:\ALPRAZOLAM 0,5mg
+
+01/30/2013  09:54 AM            40,541 3CL0107.pdf
+02/26/2013  10:58 AM            45,630 3CL0461.pdf
+               2 File(s)         86,171 bytes
+
+ Directory of Y:\AMARYL 2-1000mg
+
+02/11/2013  11:18 AM            43,602 12C103.pdf
+01/24/2013  04:39 PM            43,573 12C146.pdf
+01/24/2013  04:40 PM            43,205 12C147.pdf
+03/05/2013  11:04 AM            52,186 12L063.pdf
+03/20/2013  07:29 PM           546,761 12L066.pdf
+02/22/2013  01:45 PM            61,962 12L068.pdf
+04/15/2013  11:13 AM           456,003 13a109.pdf
+               7 File(s)      1,247,292 bytes
+
+ Directory of Y:\AMARYL 2-500mg
+
+01/24/2013  04:32 PM            82,563 AFFQ008.pdf
+02/11/2013  11:16 AM           107,130 AFFQ010.pdf
+04/05/2013  08:23 AM           110,063 AFFQ016.pdf
+               3 File(s)        299,756 bytes
+
+ Directory of Y:\AMARYL 2mg
+
+01/17/2013  06:44 AM           210,449 252115.pdf
+               1 File(s)        210,449 bytes
+
+ Directory of Y:\AMARYL 4-1000mg
+
+01/24/2013  04:35 PM            40,914 12C151.pdf
+01/25/2013  09:06 AM            58,266 12J040.pdf
+01/24/2013  04:42 PM            58,625 12J041.pdf
+02/22/2013  01:46 PM            69,051 12L069.pdf
+04/11/2013  05:27 PM            67,715 13A120.pdf
+               5 File(s)        294,571 bytes
+
+ Directory of Y:\AMARYL 4mg
+
+01/25/2013  10:02 AM           212,352 250602.pdf
+               1 File(s)        212,352 bytes
+
+ Directory of Y:\AMBRAMICINA 250mg
+
+03/21/2013  04:32 PM           135,130 N001.pdf
+               1 File(s)        135,130 bytes
+
+ Directory of Y:\AMISPED 4mg
+
+02/07/2013  03:51 PM           123,795 3CL 0017.pdf
+               1 File(s)        123,795 bytes
+
+ Directory of Y:\AMISPED 5mg
+
+02/11/2013  04:11 PM           124,750 3CL0018.pdf
+               1 File(s)        124,750 bytes
+
+ Directory of Y:\AMITRIPTILINA 25mg
+
+03/06/2013  09:02 AM            36,385 3CL0042.pdf
+               1 File(s)         36,385 bytes
+
+ Directory of Y:\AMPICILINA 500mg
+
+02/12/2013  06:53 AM           144,704 0330113.pdf
+02/12/2013  06:55 AM           148,186 0340113.pdf
+02/19/2013  02:41 PM            50,100 1570312.pdf
+02/19/2013  02:44 PM            53,750 4961012-1.pdf
+02/19/2013  02:43 PM            54,919 6961112-1.pdf
+02/19/2013  02:42 PM            48,221 6971112.pdf
+               6 File(s)        499,880 bytes
+
+ Directory of Y:\AMPICILINA SUSP
+
+02/19/2013  02:40 PM            56,383 6611112-1.pdf
+02/19/2013  02:39 PM            48,990 6621112.pdf
+               2 File(s)        105,373 bytes
+
+ Directory of Y:\APIDRA CARTUCHO
+
+03/20/2013  07:03 PM           876,590 2F563A.pdf
+01/18/2013  01:45 PM            66,549 2F615A.pdf
+02/04/2013  08:19 AM           420,748 2F642A.pdf
+               3 File(s)      1,363,887 bytes
+
+ Directory of Y:\APIDRA SOLOSTAR
+
+01/18/2013  07:53 AM            62,673 2F735A.pdf
+02/04/2013  08:19 AM           421,080 3F826A.pdf
+03/08/2013  02:04 PM           567,780 3F874A.pdf
+               3 File(s)      1,051,533 bytes
+
+ Directory of Y:\APIDRA VIAL
+
+04/09/2013  08:37 AM           566,555 2F593A.pdf
+               1 File(s)        566,555 bytes
+
+ Directory of Y:\APROVASC 150-5mg
+
+02/19/2013  07:05 AM           537,605 C3S055.pdf
+03/09/2013  02:06 PM           539,913 C3S955.pdf
+03/13/2013  09:16 AM           544,444 C3S956.pdf
+02/19/2013  07:04 AM           557,664 D2Q842.pdf
+03/18/2013  10:56 AM           207,332 D3S958.pdf
+               5 File(s)      2,386,958 bytes
+
+ Directory of Y:\APROVASC 300-10mg
+
+02/25/2013  10:53 AM           943,019 C3S930.pdf
+02/25/2013  10:52 AM           935,767 C3S932.pdf
+               2 File(s)      1,878,786 bytes
+
+ Directory of Y:\APROVASC 300-5mg
+
+02/25/2013  08:33 AM           916,943 C3S240.pdf
+02/19/2013  07:05 AM           925,056 C3S242.pdf
+03/13/2013  09:17 AM           928,606 C3S989.pdf
+03/26/2013  09:53 AM           945,704 C3S993.pdf
+03/21/2013  03:39 PM           208,850 D3S992.pdf
+03/21/2013  03:40 PM           126,032 D3S992dorso.pdf
+               6 File(s)      4,051,191 bytes
+
+ Directory of Y:\APROVEL 150mg
+
+03/08/2013  01:07 PM            69,415 2A405.pdf
+               1 File(s)         69,415 bytes
+
+ Directory of Y:\APROVEL 300mg
+
+02/28/2013  08:01 AM            43,779 2A751.pdf
+02/28/2013  08:02 AM            43,533 2A803.pdf
+03/08/2013  01:06 PM            73,129 2A819.pdf
+               3 File(s)        160,441 bytes
+
+ Directory of Y:\ARAVA 100mg
+
+01/24/2013  04:38 PM            92,343 1G24U.pdf
+02/11/2013  11:18 AM            83,735 2GD1C.pdf
+               2 File(s)        176,078 bytes
+
+ Directory of Y:\ARAVA 20mg
+
+01/22/2013  02:16 PM           545,750 2G48A.pdf
+01/18/2013  01:41 PM           179,774 2GM5A.pdf
+               2 File(s)        725,524 bytes
+
+ Directory of Y:\ASAWIN PEDIATRICO 100mg
+
+02/21/2013  10:19 AM            40,540 3CL0111.pdf
+02/21/2013  10:19 AM            39,304 3CL0112.pdf
+02/21/2013  10:20 AM            39,179 3CL0118.pdf
+03/06/2013  08:24 AM            41,553 3CL0119.pdf
+02/13/2013  10:51 AM            39,609 3CL0131.pdf
+03/06/2013  08:23 AM            40,560 3CL0143.pdf
+03/08/2013  08:53 AM            40,298 3CL0181.pdf
+03/06/2013  08:23 AM            40,264 3CL0182.pdf
+03/05/2013  10:23 AM            40,187 3CL0183.pdf
+04/03/2013  01:38 PM            40,820 3CL0184.pdf
+03/14/2013  11:45 AM            40,055 3CL0356.pdf
+03/14/2013  11:44 AM            40,656 3CL0357.pdf
+03/14/2013  11:45 AM            41,153 3CL0358.pdf
+03/14/2013  11:44 AM            40,122 3CL0359.pdf
+04/12/2013  07:19 AM            44,620 3CL0363.pdf
+04/09/2013  09:56 AM            44,343 3CL0468.pdf
+04/15/2013  09:41 AM            43,645 3CL0614.pdf
+04/12/2013  04:37 PM            43,747 3CL0615.pdf
+04/12/2013  05:08 PM            43,425 3CL0616.pdf
+              19 File(s)        784,080 bytes
+
+ Directory of Y:\ATENOLOL 100mg
+
+03/11/2013  10:47 AM           125,304 3CL0416.pdf
+               1 File(s)        125,304 bytes
+
+ Directory of Y:\ATORVASTATINA 20mg
+
+01/23/2013  09:19 AM            45,324 3CL0026.pdf
+01/23/2013  09:14 AM            45,741 3CL0027.pdf
+03/06/2013  09:26 AM            44,138 3CL0440.pdf
+               3 File(s)        135,203 bytes
+
+ Directory of Y:\ATORVASTATINA 40mg
+
+02/13/2013  10:59 AM            44,715 3CL0029.pdf
+01/31/2013  04:17 PM            46,795 3CL0030.pdf
+01/30/2013  11:55 AM            46,525 3CL0031.pdf
+01/30/2013  11:55 AM            43,169 3CL0032.pdf
+02/06/2013  12:56 PM            43,831 3CL0033.pdf
+03/06/2013  09:33 AM            47,028 3CL0351.pdf
+03/08/2013  08:51 AM            44,406 3CL0352.pdf
+02/26/2013  10:59 AM            43,847 3CL0354.pdf
+03/05/2013  10:24 AM            46,165 3CL0430.pdf
+03/08/2013  08:52 AM            44,252 3CL0431.pdf
+02/26/2013  10:58 AM            43,581 3CL0477.pdf
+              11 File(s)        494,314 bytes
+
+ Directory of Y:\BENGAY DEPORTISTAS 30g
+
+02/07/2013  02:23 PM            41,135 3CL0203.pdf
+02/07/2013  02:23 PM            41,009 3CL0204.pdf
+               2 File(s)         82,144 bytes
+
+ Directory of Y:\BENGAY DOLOR ARTICULAR
+
+02/21/2013  02:46 PM            40,265 3CL0201.pdf
+04/03/2013  07:38 AM            67,813 3CL0202.pdf
+               2 File(s)        108,078 bytes
+
+ Directory of Y:\BENGAY DOLOR MUSCULAR
+
+01/30/2013  11:57 AM            40,308 3CL0196.pdf
+02/21/2013  02:45 PM            41,304 3CL0197.pdf
+03/01/2013  11:23 AM            41,849 3CL0198.pdf
+03/01/2013  11:21 AM            40,809 3CL0213.pdf
+               4 File(s)        164,270 bytes
+
+ Directory of Y:\BETACAR 100mg COMP
+
+03/11/2013  10:07 AM            43,625 3CL0416.pdf
+               1 File(s)         43,625 bytes
+
+ Directory of Y:\BETAHISTINA  8mg
+
+02/13/2013  10:48 AM            36,731 3CL0103.pdf
+               1 File(s)         36,731 bytes
+
+ Directory of Y:\BI-PROFENID 150mg
+
+03/05/2013  08:44 AM           122,846 310242.pdf
+               1 File(s)        122,846 bytes
+
+ Directory of Y:\BROMAZEPAM 6mg
+
+01/23/2013  09:16 AM            38,979 3CL0016.pdf
+               1 File(s)         38,979 bytes
+
+ Directory of Y:\CALMIDOL COMPUESTO
+
+02/21/2013  09:16 AM            42,582 3CL0038.pdf
+02/19/2013  02:02 PM            44,283 3CL0120.pdf
+               2 File(s)         86,865 bytes
+
+ Directory of Y:\CANDESARTAN 16mg
+
+01/23/2013  09:04 AM            42,750 3CL0021.pdf
+01/29/2013  10:57 AM            42,383 3CL0022.pdf
+02/21/2013  10:05 AM            41,695 3CL0454.pdf
+               3 File(s)        126,828 bytes
+
+ Directory of Y:\CARDIOASAWIN 100mg
+
+01/14/2013  04:49 PM           204,235 2V7531.pdf
+04/15/2013  10:30 AM           126,710 310463.pdf
+               2 File(s)        330,945 bytes
+
+ Directory of Y:\CARVEDILOL 12,5mg
+
+02/13/2013  10:58 AM            42,285 3CL0014.pdf
+01/24/2013  08:28 AM            41,242 3CL0015.pdf
+03/01/2013  11:24 AM            38,821 3CL0277.pdf
+               3 File(s)        122,348 bytes
+
+ Directory of Y:\CARVEDILOL 25mg
+
+01/23/2013  09:35 AM            41,914 3CL0012.pdf
+01/23/2013  09:17 AM            41,938 3CL0013.pdf
+01/23/2013  09:36 AM            41,039 3CL0233.PDF
+02/13/2013  10:53 AM            39,557 3CL0294.pdf
+02/14/2013  03:44 PM            42,081 3CL0295.pdf
+02/21/2013  08:50 AM            39,865 3CL0296.pdf
+04/03/2013  08:01 AM            66,453 3CL0297.pdf
+               7 File(s)        312,847 bytes
+
+ Directory of Y:\CARVEDILOL 6,25mg
+
+03/01/2013  11:24 AM            39,755 3CL0274.pdf
+04/15/2013  07:05 AM            43,885 3CL0276.pdf
+               2 File(s)         83,640 bytes
+
+ Directory of Y:\CEFAZOLINA 1g
+
+02/19/2013  03:14 PM            27,919 C120075.pdf
+02/19/2013  03:14 PM            24,267 C120111.pdf
+04/01/2013  01:38 PM            31,375 C130025.pdf
+               3 File(s)         83,561 bytes
+
+ Directory of Y:\CEREZYME
+
+03/04/2013  04:54 PM           378,732 C2042A02.pdf
+03/19/2013  02:49 PM           365,725 C2054Y01.pdf
+               2 File(s)        744,457 bytes
+
+ Directory of Y:\CLARITROMICINA 500mg
+
+04/08/2013  12:56 PM            43,770 3CL0671.pdf
+               1 File(s)         43,770 bytes
+
+ Directory of Y:\CLEXANE 20mg
+
+03/21/2013  04:30 PM            54,644 2SA01.pdf
+02/14/2013  03:58 PM           593,183 2SM61.pdf
+               2 File(s)        647,827 bytes
+
+ Directory of Y:\CLEXANE 40mg
+
+01/22/2013  02:18 PM           569,529 2SM71.pdf
+02/11/2013  07:46 AM           610,346 2SN01.pdf
+01/22/2013  02:18 PM           612,196 2SN06.pdf
+02/11/2013  01:01 PM           611,315 2SN17.pdf
+02/11/2013  01:01 PM           614,927 2SN99.pdf
+02/27/2013  08:07 AM           618,321 2SV18.pdf
+03/21/2013  11:29 AM            53,901 3SA00.pdf
+04/09/2013  09:18 AM           609,766 3SA02.pdf
+04/09/2013  09:18 AM           609,334 3SA04.pdf
+               9 File(s)      4,909,635 bytes
+
+ Directory of Y:\CLEXANE 60mg
+
+02/11/2013  11:42 AM           569,238 2SM47.pdf
+02/11/2013  11:42 AM           562,700 2SM50.pdf
+03/21/2013  01:23 PM            53,580 2SV31.pdf
+03/21/2013  04:30 PM            55,059 2SV41.pdf
+               4 File(s)      1,240,577 bytes
+
+ Directory of Y:\CLEXANE 80mg
+
+02/11/2013  11:42 AM           588,694 2SM19.pdf
+03/21/2013  04:29 PM            50,291 2SM22.pdf
+03/21/2013  04:28 PM            54,868 2SV07.pdf
+               3 File(s)        693,853 bytes
+
+ Directory of Y:\CLIKSTAR BLUE
+
+02/15/2013  07:04 AM            42,330 45A548.pdf
+               1 File(s)         42,330 bytes
+
+ Directory of Y:\CLIKSTAR SILVER
+
+02/15/2013  07:04 AM            41,695 42A547.pdf
+               1 File(s)         41,695 bytes
+
+ Directory of Y:\CLINDAMICINA 600mg
+
+02/19/2013  03:18 PM            24,962 A120296.pdf
+02/19/2013  03:20 PM            23,841 A120565.pdf
+02/19/2013  03:17 PM            54,429 A120695.pdf
+               3 File(s)        103,232 bytes
+
+ Directory of Y:\CLOLAR 1mg
+
+03/05/2013  09:56 AM         1,228,890 K2003H09.pdf
+               1 File(s)      1,228,890 bytes
+
+ Directory of Y:\CLONIDINA 0,15mg
+
+02/08/2013  08:39 AM            40,974 3CL0023.pdf
+02/08/2013  08:39 AM            42,917 3CL0024.pdf
+               2 File(s)         83,891 bytes
+
+ Directory of Y:\CLOPIDOGREL
+
+01/14/2013  11:44 AM            47,844 2A801.pdf
+02/18/2013  09:01 AM            47,843 2A851.pdf
+               2 File(s)         95,687 bytes
+
+ Directory of Y:\CLOTRIMAZOL 1% CREMA TOPICA
+
+02/13/2013  10:55 AM            37,210 3CL0208.pdf
+               1 File(s)         37,210 bytes
+
+ Directory of Y:\CLOTRIMAZOL 1% CREMA VAGINAL
+
+02/21/2013  08:09 AM            40,306 3CL0209.pdf
+               1 File(s)         40,306 bytes
+
+ Directory of Y:\CLOZAPINA 25mg
+
+04/03/2013  02:30 PM            39,635 3CL0466.pdf
+               1 File(s)         39,635 bytes
+
+ Directory of Y:\COAPROVEL 150- 12,5mg
+
+02/19/2013  03:35 PM           111,539 2A411.pdf
+02/19/2013  03:36 PM           105,275 2A471.pdf
+               2 File(s)        216,814 bytes
+
+ Directory of Y:\COAPROVEL 300- 25mg
+
+01/24/2013  04:45 PM            93,707 2A322.pdf
+01/24/2013  04:37 PM            97,327 2A323.pdf
+01/24/2013  04:46 PM           100,410 2A324.pdf
+03/18/2013  10:31 AM           103,530 2A335.pdf
+01/24/2013  04:37 PM            97,636 2A336.pdf
+03/18/2013  10:33 AM           120,578 2A346.pdf
+04/05/2013  08:36 AM           130,962 2A347.pdf
+               7 File(s)        744,150 bytes
+
+ Directory of Y:\COAPROVEL 300-12,5mg
+
+02/19/2013  03:34 PM           125,137 2A541.pdf
+02/19/2013  03:34 PM           534,999 2A580.pdf
+02/28/2013  08:03 AM            45,043 2A620.pdf
+               3 File(s)        705,179 bytes
+
+ Directory of Y:\COLAXIN JALEA 130g
+
+03/07/2013  02:07 PM            70,274 3CL0220.pdf
+               1 File(s)         70,274 bytes
+
+ Directory of Y:\COLESTIRAMINA POLVO 4g
+
+01/23/2013  09:44 AM            33,597 3CL0039.pdf
+01/23/2013  09:26 AM            36,898 3CL0040.pdf
+02/21/2013  08:24 AM            34,316 3CL0110.pdf
+04/08/2013  05:00 PM            35,696 3CL0113.pdf
+02/21/2013  08:24 AM            32,064 3CL0114.pdf
+02/21/2013  08:25 AM            33,948 3CL0115.pdf
+01/30/2013  09:57 AM            32,126 3CL0116.pdf
+02/14/2013  03:44 PM            35,187 3CL0135.pdf
+02/15/2013  02:49 PM            34,854 3CL0136.pdf
+02/25/2013  01:29 PM            34,361 3CL0137.pdf
+02/15/2013  02:49 PM            34,104 3CL0138.pdf
+02/19/2013  02:03 PM            34,999 3CL0139.pdf
+04/03/2013  03:12 PM            35,305 3CL0140.pdf
+03/11/2013  01:36 PM            35,975 3CL0306.pdf
+03/11/2013  01:35 PM            35,679 3CL0307.pdf
+03/11/2013  01:36 PM            35,026 3CL0308.pdf
+03/11/2013  01:35 PM            36,042 3CL0309.pdf
+03/11/2013  01:35 PM            35,586 3CL0310.pdf
+03/12/2013  08:21 AM            35,410 3CL0312.pdf
+03/14/2013  11:46 AM            35,296 3CL0315.pdf
+03/12/2013  08:21 AM            35,236 3CL0587.PDF
+03/14/2013  11:45 AM            36,687 3CL0588.pdf
+04/03/2013  01:24 PM            35,628 3CL0589.pdf
+04/09/2013  03:59 PM            40,018 3CL0595.pdf
+04/08/2013  08:30 AM            41,319 3CL0596.pdf
+04/08/2013  08:40 AM            41,392 3CL0680.pdf
+04/08/2013  04:52 PM            39,593 3CL0681.pdf
+04/15/2013  09:42 AM            39,420 3CL0695.pdf
+              28 File(s)      1,005,762 bytes
+
+ Directory of Y:\CONMEL 324mg
+
+04/09/2013  09:32 AM            44,316 3CL0668.pdf
+               1 File(s)         44,316 bytes
+
+ Directory of Y:\CONMEL 500mg
+
+04/03/2013  11:37 AM            43,108 3CL0070.pdf
+               1 File(s)         43,108 bytes
+
+ Directory of Y:\CONMEL INY
+
+03/13/2013  08:02 AM            30,997 A130019.pdf
+               1 File(s)         30,997 bytes
+
+ Directory of Y:\CORDARONE 150mg 3ml
+
+02/11/2013  07:30 AM            99,047 2A117.pdf
+               1 File(s)         99,047 bytes
+
+ Directory of Y:\CORDARONE 200mg
+
+02/28/2013  07:57 AM            37,979 2R070.pdf
+               1 File(s)         37,979 bytes
+
+ Directory of Y:\COROTROPE 10 X 10
+
+03/21/2013  01:24 PM           115,649 2Y011.pdf
+               1 File(s)        115,649 bytes
+
+ Directory of Y:\DENIBAN 200mg
+
+03/01/2013  01:32 PM            83,358 2Y121..pdf
+01/14/2013  10:50 AM            41,407 2Y121.pdf
+               2 File(s)        124,765 bytes
+
+ Directory of Y:\DESLORATADINA JARABE
+
+04/08/2013  05:49 PM            38,933 3CL0250.pdf
+03/12/2013  08:24 AM            35,920 3CL0490.pdf
+03/12/2013  08:24 AM            36,216 3CL0492.pdf
+               3 File(s)        111,069 bytes
+
+ Directory of Y:\DICLOFENACO 1% GEL
+
+03/04/2013  09:03 AM            38,903 3CL0207.pdf
+               1 File(s)         38,903 bytes
+
+ Directory of Y:\DICLOFENACO SODICO
+
+03/22/2013  01:38 PM           124,606 3CL0498.pdf
+               1 File(s)        124,606 bytes
+
+ Directory of Y:\DIGESPAR CAP
+
+03/20/2013  08:17 AM           163,261 3019089.pdf
+03/20/2013  08:18 AM           164,057 3029412.pdf
+               2 File(s)        327,318 bytes
+
+ Directory of Y:\DIHIDROCODEINA JAR
+
+02/15/2013  02:50 PM            37,548 3CL0156.pdf
+02/21/2013  03:41 PM            37,456 3CL0157.pdf
+01/29/2013  10:56 AM            39,387 3CL0158.pdf
+02/19/2013  02:00 PM            39,485 3CL0374.pdf
+03/01/2013  11:23 AM            37,949 3CL0375.pdf
+02/25/2013  01:30 PM            41,245 3CL0376.pdf
+               6 File(s)        233,070 bytes
+
+ Directory of Y:\DILTIASYN 60mg
+
+01/23/2013  09:01 AM            43,193 3CL0028.pdf
+               1 File(s)         43,193 bytes
+
+ Directory of Y:\DILTIAZEM 120mg
+
+02/21/2013  03:44 PM            38,887 3CL0164.pdf
+               1 File(s)         38,887 bytes
+
+ Directory of Y:\DIOSMINA 500mg
+
+02/25/2013  07:52 AM            43,027 3CL0459.pdf
+02/25/2013  07:51 AM            43,212 3CL0460.pdf
+               2 File(s)         86,239 bytes
+
+ Directory of Y:\DOGMATIL 200mg
+
+02/04/2013  10:30 AM            41,938 3CL0019.pdf
+               1 File(s)         41,938 bytes
+
+ Directory of Y:\DOXICICLINA 100mg
+
+01/28/2013  01:17 PM            38,386 3CL0106.pdf
+02/13/2013  10:47 AM            35,819 3CL0256.pdf
+03/01/2013  08:45 AM           126,085 3CL0405.pdf
+02/26/2013  11:05 AM            36,869 3CL0463.pdf
+02/26/2013  11:00 AM            38,577 3CL0481.pdf
+03/05/2013  09:07 AM           125,898 3CL0481a.pdf
+               6 File(s)        401,634 bytes
+
+ Directory of Y:\ELOXATIN SOL 100mg 20ml
+
+02/05/2013  02:26 PM           300,230 D2C323.pdf
+02/05/2013  02:26 PM           298,179 D2C524.pdf
+               2 File(s)        598,409 bytes
+
+ Directory of Y:\ELOXATIN SOL 50mg- 10ml
+
+01/23/2013  06:27 AM            52,207 D2C095.pdf
+02/11/2013  06:21 AM           300,980 D2C149.pdf
+02/11/2013  06:20 AM           298,270 D2C380.pdf
+02/11/2013  06:20 AM           297,995 D2C526.pdf
+               4 File(s)        949,452 bytes
+
+ Directory of Y:\ENTEROGERMINA CAJA X 3MM
+
+02/27/2013  09:46 AM           158,672 M121559.pdf
+               1 File(s)        158,672 bytes
+
+ Directory of Y:\ENTEROGERMINA X 10
+
+02/14/2013  01:33 PM           230,605 30059.pdf
+               1 File(s)        230,605 bytes
+
+ Directory of Y:\ENTEROLYTE CEREZA
+
+02/11/2013  10:19 AM           348,343 C130114W.pdf
+02/11/2013  10:21 AM           351,665 C130114X.pdf
+02/11/2013  10:26 AM           349,085 C130115W.pdf
+02/11/2013  10:32 AM           352,917 C130115X.pdf
+02/22/2013  05:52 PM           165,590 C130207W.pdf
+02/22/2013  05:52 PM           153,926 C130207X.pdf
+02/22/2013  05:51 PM           149,487 C130208W.pdf
+02/22/2013  05:50 PM           166,114 C130208X.pdf
+03/11/2013  03:17 PM           160,050 C130214W.pdf
+03/11/2013  03:18 PM           158,234 C130214X.pdf
+03/11/2013  03:19 PM           159,930 C130215W.pdf
+03/11/2013  03:20 PM           157,521 C130215X.pdf
+03/11/2013  03:22 PM           164,960 C130216W.pdf
+03/11/2013  03:08 PM           162,708 C130216X.pdf
+03/21/2013  11:41 AM           172,668 C130220W.pdf
+              15 File(s)      3,173,198 bytes
+
+ Directory of Y:\ENTEROLYTE COCO
+
+03/06/2013  03:30 PM           166,439 C0121113W.pdf
+04/01/2013  01:40 PM           167,753 C0130309W.pdf
+03/21/2013  12:59 PM            96,960 CO121206W.pdf
+03/21/2013  01:00 PM            98,974 CO121206X.pdf
+03/21/2013  01:01 PM            91,740 CO121207W.pdf
+03/21/2013  01:02 PM           100,844 CO121207X.pdf
+03/21/2013  01:00 PM           115,556 CO121210W.pdf
+03/21/2013  01:02 PM            98,557 CO121210X.pdf
+03/21/2013  01:03 PM           116,157 CO121211W.pdf
+03/21/2013  01:04 PM           117,144 CO121211X.pdf
+03/21/2013  01:05 PM           106,758 CO121212W.pdf
+03/21/2013  01:05 PM            95,744 CO121212X.pdf
+03/21/2013  01:06 PM           116,570 CO121213W.pdf
+03/21/2013  01:08 PM           121,157 CO121213X.pdf
+02/22/2013  05:56 PM           162,057 CO130204W.pdf
+02/22/2013  05:55 PM           167,961 CO130204X.pdf
+03/11/2013  03:14 PM           162,317 CO130218W.pdf
+03/21/2013  11:52 AM           168,381 CO130304W.pdf
+03/21/2013  11:45 AM           169,463 CO130304X.pdf
+03/21/2013  01:12 PM           162,689 CO130305W.pdf
+03/21/2013  01:12 PM           165,780 CO130305X.pdf
+03/21/2013  01:13 PM           169,550 CO130306W.pdf
+03/21/2013  01:14 PM           169,926 CO130306X.pdf
+03/21/2013  01:14 PM           170,107 CO130307W.pdf
+03/21/2013  01:15 PM           169,826 CO130307X.pdf
+03/21/2013  01:16 PM           165,898 CO130308W.pdf
+03/21/2013  01:19 PM           168,691 CO130308X.pdf
+04/01/2013  01:41 PM           170,669 CO130309X.pdf
+04/01/2013  01:42 PM           170,060 CO130311W.pdf
+04/01/2013  01:43 PM           167,388 CO130311X.pdf
+04/01/2013  01:44 PM           172,492 CO130312X.pdf
+              31 File(s)      4,463,608 bytes
+
+ Directory of Y:\ENTEROLYTE MANDARINA
+
+03/21/2013  12:58 PM            98,205 M121105W.pdf
+02/11/2013  10:58 AM           360,051 M130121W.pdf
+02/11/2013  10:56 AM           361,922 M130121X.pdf
+02/22/2013  05:54 PM           164,452 M130206W.pdf
+02/22/2013  05:54 PM           166,048 M130206X.pdf
+02/27/2013  01:39 PM           162,469 M130211W.pdf
+02/27/2013  01:40 PM           164,803 M130211X.pdf
+02/27/2013  01:41 PM           163,345 M130212W.pdf
+02/27/2013  01:42 PM           164,762 M130212X.pdf
+02/27/2013  01:43 PM           162,095 M130213W.pdf
+02/27/2013  01:44 PM           162,142 M130213X.pdf
+03/11/2013  03:15 PM           154,420 M130218Y.pdf
+03/21/2013  11:42 AM           165,327 M130219W.pdf
+03/21/2013  11:44 AM           170,724 M130219X.pdf
+03/11/2013  03:11 PM           166,042 M130221W.pdf
+03/11/2013  03:09 PM           168,769 M130221X.pdf
+03/11/2013  03:13 PM           163,401 M130222W.pdf
+03/11/2013  03:10 PM           159,363 M130223W.pdf
+03/11/2013  03:12 PM           164,735 M130223X.pdf
+              19 File(s)      3,443,075 bytes
+
+ Directory of Y:\ENTEROLYTE UVA
+
+02/11/2013  10:35 AM           345,145 U130116W.pdf
+02/11/2013  10:37 AM           344,220 U130116X.pdf
+02/11/2013  10:42 AM           344,197 U130117W.pdf
+02/11/2013  10:44 AM           345,441 U130117X.pdf
+02/11/2013  10:46 AM           343,957 U130118W.pdf
+02/11/2013  10:48 AM           368,847 U130118X.pdf
+02/11/2013  10:50 AM           366,564 U130119W.pdf
+02/11/2013  10:16 AM           371,763 U130119X.pdf
+02/11/2013  11:06 AM           356,438 U130122W.pdf
+02/11/2013  11:08 AM           354,507 U130122X.pdf
+03/21/2013  01:09 PM           102,087 U130123W.pdf
+02/11/2013  11:11 AM           357,130 U130124W.pdf
+02/11/2013  11:13 AM           353,037 U130124X.pdf
+02/11/2013  11:15 AM           355,134 U130125W.pdf
+02/11/2013  11:41 AM           356,496 U130125X.pdf
+02/11/2013  11:01 AM           357,697 U130126W.pdf
+02/22/2013  05:45 PM           163,688 U130209W.pdf
+02/22/2013  05:46 PM           163,206 U130209X.pdf
+03/11/2013  03:16 PM           167,249 U130220X.pdf
+04/08/2013  04:46 PM           162,231 U130314W.pdf
+04/08/2013  04:47 PM           160,989 U130314X.pdf
+04/08/2013  04:45 PM           166,648 U130315W.pdf
+04/08/2013  04:46 PM           160,669 U130315X.pdf
+              23 File(s)      6,567,340 bytes
+
+ Directory of Y:\EQUILID 50mg
+
+03/05/2013  08:17 AM           116,087 307126.pdf
+               1 File(s)        116,087 bytes
+
+ Directory of Y:\ESCITALOPRAM 10mg
+
+02/25/2013  01:30 PM            44,609 3CL0104.pdf
+03/21/2013  04:40 PM           124,185 3CL0643.pdf
+               2 File(s)        168,794 bytes
+
+ Directory of Y:\ESOMEPRAZOL 20mg
+
+02/22/2013  08:30 AM            39,224 3CL0034.pdf
+01/30/2013  10:00 AM            37,614 3CL0035.pdf
+04/03/2013  11:31 AM            41,755 3CL0509.pdf
+               3 File(s)        118,593 bytes
+
+ Directory of Y:\ESOMEPRAZOL 40mg
+
+02/06/2013  12:58 PM            37,483 3CL0109.pdf
+03/21/2013  04:38 PM           123,027 3CL0510.pdf
+               2 File(s)        160,510 bytes
+
+ Directory of Y:\ESPIRONOLACTONA 25mg
+
+02/25/2013  02:26 PM           124,628 3CL0258 a.pdf
+02/25/2013  02:05 PM            36,348 3CL0258.pdf
+03/05/2013  10:20 AM           122,416 3CL0260.pdf
+03/01/2013  11:19 AM           121,945 3CL0261.pdf
+               4 File(s)        405,337 bytes
+
+ Directory of Y:\EZETIMIBA 10mg
+
+04/03/2013  02:24 PM            39,512 3CL0565.pdf
+               1 File(s)         39,512 bytes
+
+ Directory of Y:\FABRAZYME 35mg
+
+01/28/2013  08:22 AM            40,115 E2028A02.pdf
+01/28/2013  08:23 AM            38,216 E2033A01.pdf
+               2 File(s)         78,331 bytes
+
+ Directory of Y:\FABRAZYME 5mg
+
+03/12/2013  01:59 PM           162,665 E2001A02.pdf
+04/10/2013  10:58 AM            38,083 E2012A01.pdf
+04/10/2013  10:57 AM            40,411 E2040A03.pdf
+               3 File(s)        241,159 bytes
+
+ Directory of Y:\FALMONOX 500mg
+
+02/25/2013  02:28 PM           123,921 3CL0241 a.pdf
+02/25/2013  02:04 PM            36,903 3CL0241.pdf
+               2 File(s)        160,824 bytes
+
+ Directory of Y:\FLAGYL 500mg  OVULOS
+
+03/27/2013  05:50 AM           186,668 C3S531.pdf
+               1 File(s)        186,668 bytes
+
+ Directory of Y:\FLAGYL 500mg TAB
+
+03/13/2013  09:18 AM           478,843 C3S720.pdf
+               1 File(s)        478,843 bytes
+
+ Directory of Y:\FLAGYL IV 100ml
+
+02/15/2013  10:31 AM           118,188 243793.pdf
+01/29/2013  03:27 PM           117,495 247688.pdf
+               2 File(s)        235,683 bytes
+
+ Directory of Y:\FLUDARA
+
+04/01/2013  06:33 AM           401,292 21018E.pdf
+04/01/2013  06:33 AM           364,150 22019L.pdf
+               2 File(s)        765,442 bytes
+
+ Directory of Y:\FUROSEMIDA 20mg-2mL INY
+
+03/06/2013  02:15 PM            38,775 A130024.pdf
+               1 File(s)         38,775 bytes
+
+ Directory of Y:\GABAPENTINA
+
+03/21/2013  04:31 PM           135,130 3CL0020.pdf
+               1 File(s)        135,130 bytes
+
+ Directory of Y:\GEMFIBROZILO 600mg
+
+02/07/2013  02:23 PM            37,371 3CL0059.pdf
+03/05/2013  10:24 AM            36,232 3CL0060.pdf
+02/15/2013  02:51 PM            39,528 3CL0062.pdf
+02/25/2013  01:31 PM            36,162 3CL0063.pdf
+03/11/2013  10:09 AM            41,646 3CL0406.pdf
+03/11/2013  01:34 PM            40,449 3CL0408.pdf
+04/03/2013  01:58 PM            40,400 3CL0410.pdf
+04/03/2013  01:40 PM            40,056 3CL0422.pdf
+               8 File(s)        311,844 bytes
+
+ Directory of Y:\GLICLAZIDA 80mg
+
+04/03/2013  01:53 PM            42,500 3CL0470.pdf
+               1 File(s)         42,500 bytes
+
+ Directory of Y:\HECTOROL
+
+03/13/2013  09:02 AM           380,502 Q1007SH.pdf
+               1 File(s)        380,502 bytes
+
+ Directory of Y:\HIDROXICINA JARABE
+
+01/23/2013  09:43 AM            37,612 3CL0129.pdf
+               1 File(s)         37,612 bytes
+
+ Directory of Y:\HIPERLIPEN 100mg
+
+01/30/2013  10:03 AM            38,569 3CL0081.pdf
+02/13/2013  10:57 AM            38,479 3CL0085.pdf
+02/22/2013  10:06 AM            40,405 3CL0086.pdf
+               3 File(s)        117,453 bytes
+
+ Directory of Y:\IBUPROFENO 400mg
+
+02/26/2013  11:05 AM            37,032 3CL0215.pdf
+               1 File(s)         37,032 bytes
+
+ Directory of Y:\IBUPROFENO 800mg
+
+02/22/2013  11:07 AM            42,302 3CL0044.pdf
+02/22/2013  11:07 AM            40,133 3CL0045.pdf
+02/26/2013  10:59 AM            36,391 3CL0216.pdf
+04/03/2013  02:32 PM            40,168 3CL0569.pdf
+               4 File(s)        158,994 bytes
+
+ Directory of Y:\IBUPROFENO SUSP
+
+03/12/2013  08:23 AM            44,345 3CL0377.pdf
+               1 File(s)         44,345 bytes
+
+ Directory of Y:\IMOVANE 7.5mg
+
+03/05/2013  10:10 AM           201,909 250470.pdf
+               1 File(s)        201,909 bytes
+
+ Directory of Y:\JEVTANA
+
+03/05/2013  11:32 AM           307,540 D3A021.pdf
+03/05/2013  11:32 AM           309,077 D3A080.pdf
+               2 File(s)        616,617 bytes
+
+ Directory of Y:\LACTACYD DELICATA 120ml
+
+03/05/2013  01:00 PM           110,448 313946.pdf
+               1 File(s)        110,448 bytes
+
+ Directory of Y:\LACTACYD FEMINA 5ml
+
+03/13/2013  06:06 AM           171,112 103471.pdf
+               1 File(s)        171,112 bytes
+
+ Directory of Y:\LAMOTRIGINE 100mg
+
+03/01/2013  11:20 AM            43,407 3CL0437.pdf
+               1 File(s)         43,407 bytes
+
+ Directory of Y:\LANTADIN 30mg
+
+01/29/2013  02:51 PM           227,834 244001.pdf
+               1 File(s)        227,834 bytes
+
+ Directory of Y:\LANTADIN 6mg
+
+01/30/2013  09:10 AM           209,277 244188.pdf
+               1 File(s)        209,277 bytes
+
+ Directory of Y:\LANTUS CARTUCHOS
+
+01/18/2013  01:42 PM            68,897 2F049A.pdf
+04/01/2013  11:53 AM           580,501 2F462A.pdf
+               2 File(s)        649,398 bytes
+
+ Directory of Y:\LANTUS SOLOSTAR
+
+02/05/2013  10:12 AM            72,917 2F054A.pdf
+01/22/2013  08:14 AM            73,621 2F055A.pdf
+01/18/2013  01:43 PM            68,362 2F467A.pdf
+02/04/2013  08:20 AM           424,302 3F084A.pdf
+02/15/2013  07:02 AM            73,456 3F085A.pdf
+02/05/2013  10:13 AM            72,549 3F095A.pdf
+04/09/2013  12:56 PM           574,489 3F127a.pdf
+               7 File(s)      1,359,696 bytes
+
+ Directory of Y:\LANTUS VIAL
+
+11/06/2012  07:41 AM            70,428 2F315A.pdf
+01/18/2013  01:47 PM            66,271 2F321A.pdf
+03/06/2013  07:33 AM            91,945 2F323A.pdf
+02/15/2013  07:01 AM            71,480 2F325A.pdf
+04/01/2013  11:54 AM           574,593 2F331A.pdf
+02/15/2013  06:21 AM            73,418 2F332A.pdf
+04/09/2013  12:56 PM           569,952 2F338A.pdf
+               7 File(s)      1,518,087 bytes
+
+ Directory of Y:\LASILACTON 50mg
+
+01/25/2013  09:28 AM           192,950 C2R690.pdf
+               1 File(s)        192,950 bytes
+
+ Directory of Y:\LASIX 40mg TAB
+
+01/29/2013  02:49 PM           162,823 248164.pdf
+               1 File(s)        162,823 bytes
+
+ Directory of Y:\LEVETIRACETAM 500mg
+
+01/24/2013  08:25 AM            46,277 3CL0011.pdf
+03/11/2013  10:07 AM            42,265 3CL0272.pdf
+               2 File(s)         88,542 bytes
+
+ Directory of Y:\LINCOMICINA 600mg
+
+04/01/2013  01:39 PM            33,276 A130022.pdf
+               1 File(s)         33,276 bytes
+
+ Directory of Y:\LORATADINA 10mg
+
+03/04/2013  11:42 AM           123,905 3CL0084 Exp.pdf
+03/04/2013  09:04 AM            40,465 3CL0084.pdf
+03/21/2013  04:39 PM           124,785 3CL0566.pdf
+               3 File(s)        289,155 bytes
+
+ Directory of Y:\LORATADINA JARABE
+
+01/23/2013  09:32 AM            36,898 3CL0159.pdf
+01/23/2013  09:33 AM            45,242 3CL0160.pdf
+01/24/2013  08:27 AM            46,468 3CL0161.pdf
+02/15/2013  02:51 PM            41,919 3CL0372.pdf
+04/03/2013  01:09 PM            87,487 3CL0518.pdf
+04/03/2013  01:11 PM            87,797 3CL0519.pdf
+               6 File(s)        345,811 bytes
+
+ Directory of Y:\LORAZEPAM 2mg
+
+02/26/2013  11:00 AM            40,257 3CL0298.pdf
+               1 File(s)         40,257 bytes
+
+ Directory of Y:\LOSARTAN 100mg
+
+02/19/2013  02:01 PM            41,321 3CL0057.pdf
+               1 File(s)         41,321 bytes
+
+ Directory of Y:\LOSARTAN 50mg
+
+04/03/2013  01:10 PM            76,251 3CL0524.pdf
+04/03/2013  01:10 PM            76,853 3CL0525.pdf
+               2 File(s)        153,104 bytes
+
+ Directory of Y:\MEMANTINA 10mg
+
+04/03/2013  01:31 PM            45,368 3CL0240.pdf
+04/03/2013  01:29 PM            45,902 3CL0508.pdf
+               2 File(s)         91,270 bytes
+
+ Directory of Y:\METFORMINA 850mg
+
+01/23/2013  09:41 AM            44,859 3CL0048.pdf
+02/25/2013  08:28 AM            43,982 3CL0049.pdf
+02/15/2013  02:51 PM            41,641 3CL0050.pdf
+02/04/2013  11:34 AM            41,198 3CL0052.pdf
+02/07/2013  02:24 PM            45,067 3CL0121.pdf
+01/30/2013  08:26 AM            45,914 3CL0122.pdf
+02/25/2013  08:28 AM            44,404 3CL0123.pdf
+02/13/2013  10:59 AM            45,782 3CL0124.pdf
+01/30/2013  11:59 AM            42,457 3CL0126.pdf
+02/25/2013  08:27 AM            41,641 3CL0127.PDF
+01/30/2013  12:00 PM            42,265 3CL0144.pdf
+02/25/2013  08:29 AM            41,802 3CL0145.pdf
+03/05/2013  08:08 AM            43,123 3CL0146.pdf
+02/08/2013  08:40 AM            42,189 3CL0147.pdf
+02/15/2013  02:52 PM            43,923 3CL0149.pdf
+02/13/2013  10:48 AM            45,426 3CL0150.pdf
+02/13/2013  10:55 AM            41,699 3CL0151.pdf
+02/25/2013  02:06 PM            43,058 3CL0222.pdf
+04/10/2013  08:17 AM            46,618 3CL0223.pdf
+02/25/2013  01:32 PM            41,819 3CL0225.pdf
+03/14/2013  11:43 AM            42,574 3CL0230.pdf
+02/11/2013  10:33 AM            41,875 3CL0248.pdf
+03/11/2013  02:43 PM            42,491 3CL0317.pdf
+03/01/2013  11:25 AM            42,146 3CL0318.pdf
+04/12/2013  07:18 AM            47,048 3CL0320.pdf
+04/15/2013  07:11 AM            46,566 3CL0321.pdf
+04/05/2013  01:39 PM            47,263 3CL0322.pdf
+03/11/2013  10:05 AM            41,616 3CL0323.pdf
+03/11/2013  01:36 PM            43,669 3CL0324.pdf
+03/22/2013  03:42 PM            50,143 3CL0331.pdf
+04/03/2013  10:33 AM            44,893 3CL0332.pdf
+04/03/2013  11:24 AM            45,993 3CL0333.pdf
+04/05/2013  09:25 AM           124,387 3CL0335-PANAMA.pdf
+04/05/2013  07:49 AM            47,323 3CL0335.pdf
+04/02/2013  03:39 PM           124,121 3CL0336-PANAMA.pdf
+04/02/2013  03:23 PM            53,976 3CL0336.pdf
+04/05/2013  03:19 PM            46,388 3CL0337.pdf
+04/03/2013  01:09 PM            95,639 3CL0339.pdf
+04/08/2013  12:59 PM            49,370 3CL0341.pdf
+04/08/2013  04:29 PM            50,293 3CL0343.pdf
+04/12/2013  04:54 PM            50,214 3CL0346.pdf
+04/10/2013  10:21 AM            48,450 3CL0347.pdf
+04/10/2013  10:35 AM            48,834 3CL0348.pdf
+04/11/2013  10:12 AM            49,453 3CL0349.pdf
+              44 File(s)      2,193,592 bytes
+
+ Directory of Y:\METOPROLOL 50mg
+
+02/08/2013  02:04 PM            37,141 3CL0077.pdf
+               1 File(s)         37,141 bytes
+
+ Directory of Y:\MIDAZOLAM 7.5mg
+
+03/11/2013  01:37 PM            39,991 3CL0455.pdf
+               1 File(s)         39,991 bytes
+
+ Directory of Y:\MIDAZOLANM 15mg-3ml
+
+03/19/2013  09:00 AM            38,104 3CLO236.pdf
+               1 File(s)         38,104 bytes
+
+ Directory of Y:\MILPAR SUSP
+
+02/25/2013  10:09 AM            36,535 3CL0162.pdf
+02/01/2013  11:52 AM            36,731 3CL0178.pdf
+02/06/2013  01:01 PM            36,875 3CL0187.pdf
+02/25/2013  10:09 AM            36,100 3CL0188.pdf
+02/06/2013  01:00 PM            36,154 3CL0189.pdf
+02/06/2013  01:00 PM            36,374 3CL0190.pdf
+02/06/2013  12:57 PM            36,122 3CL0191.pdf
+02/06/2013  01:01 PM            37,240 3CL0192.pdf
+02/06/2013  12:58 PM            36,319 3CL0193.pdf
+02/06/2013  12:59 PM            36,459 3CL0194.pdf
+02/07/2013  02:25 PM            37,212 3CL0195.pdf
+03/05/2013  10:25 AM            38,379 3CL0390.pdf
+03/01/2013  11:23 AM            37,109 3CL0391.pdf
+03/01/2013  11:22 AM            38,323 3CL0394.pdf
+03/11/2013  01:38 PM            37,627 3CL0401.pdf
+03/11/2013  01:34 PM            38,157 3CL0403.pdf
+03/12/2013  08:22 AM            37,322 3CL0404.pdf
+              17 File(s)        629,038 bytes
+
+ Directory of Y:\MILPAX SUSPENSION CEREZA
+
+02/25/2013  10:31 AM            43,688 3CL0282.pdf
+02/25/2013  10:32 AM            43,472 3CL0283.pdf
+02/25/2013  10:30 AM            43,276 3CL0284.pdf
+02/25/2013  10:31 AM            43,142 3CL0286.pdf
+04/03/2013  02:32 PM            42,801 3CL0608.pdf
+               5 File(s)        216,379 bytes
+
+ Directory of Y:\MILPAX SUSPENSION CHICLE
+
+02/26/2013  11:06 AM            41,860 3CL0301.pdf
+               1 File(s)         41,860 bytes
+
+ Directory of Y:\MONTELUKAST 4mg
+
+02/07/2013  02:26 PM            40,146 3CL0017.pdf
+               1 File(s)         40,146 bytes
+
+ Directory of Y:\MONTELUKAST 5mg
+
+02/11/2013  10:31 AM            40,293 3CL0018.pdf
+               1 File(s)         40,293 bytes
+
+ Directory of Y:\MOZOBIL
+
+03/08/2013  10:26 AM         1,037,425 J2001H01.pdf
+               1 File(s)      1,037,425 bytes
+
+ Directory of Y:\MULTAQ 400mg
+
+02/28/2013  08:03 AM            47,344 2A801.pdf
+               1 File(s)         47,344 bytes
+
+ Directory of Y:\MUSCORIL 8mg
+
+02/11/2013  11:17 AM            69,226 1212006.pdf
+03/18/2013  10:32 AM            72,372 1212007.pdf
+03/18/2013  02:17 PM           507,580 1212008.pdf
+               3 File(s)        649,178 bytes
+
+ Directory of Y:\MYCOPHENOLATE
+
+01/28/2013  09:27 AM            84,286 2460752.pdf
+01/28/2013  09:26 AM            84,639 2460777.pdf
+01/28/2013  09:28 AM            84,490 2460784.pdf
+01/28/2013  09:26 AM            83,580 2460790.pdf
+03/27/2013  06:42 AM            84,777 2479645.pdf
+               5 File(s)        421,772 bytes
+
+ Directory of Y:\MYOZYME
+
+03/04/2013  03:28 PM           367,308 C2100H01.pdf
+03/19/2013  07:10 AM           359,486 C2100H03.pdf
+03/04/2013  03:28 PM         1,550,195 C2102H06.pdf
+03/19/2013  07:10 AM           363,158 C2104H03.pdf
+               4 File(s)      2,640,147 bytes
+
+ Directory of Y:\NAPROXENO 250mg
+
+01/30/2013  10:06 AM            35,475 3CL0001.pdf
+02/06/2013  12:56 PM            35,963 3CL0002.pdf
+02/06/2013  12:59 PM            38,138 3CL0003.pdf
+02/08/2013  02:04 PM            39,164 3CL0004.pdf
+02/13/2013  10:49 AM            35,749 3CL0005.pdf
+02/14/2013  03:43 PM            37,863 3CL0006.pdf
+02/25/2013  01:32 PM            36,194 3CL0007.pdf
+02/26/2013  11:06 AM            35,354 3CL0008.pdf
+03/22/2013  01:37 PM           121,100 3CL0482.pdf
+               9 File(s)        415,000 bytes
+
+ Directory of Y:\NATURET CAPSULAS
+
+01/14/2013  04:49 PM           246,189 250629.pdf
+               1 File(s)        246,189 bytes
+
+ Directory of Y:\NATURET JALEA 260
+
+01/29/2013  03:28 PM           262,183 253422.pdf
+               1 File(s)        262,183 bytes
+
+ Directory of Y:\NOVALGINA 50% INY 5ml
+
+02/28/2013  07:39 AM           115,412 253089.pdf
+               1 File(s)        115,412 bytes
+
+ Directory of Y:\NOVALGINA GOTAS
+
+03/13/2013  06:50 AM           214,804 312194.pdf
+               1 File(s)        214,804 bytes
+
+ Directory of Y:\OLANZAPINA 10mg
+
+02/13/2013  10:52 AM            42,874 3CL0168.pdf
+04/03/2013  01:55 PM            43,616 3CL0500.pdf
+04/03/2013  01:47 PM            44,137 3CL0501.pdf
+04/03/2013  01:48 PM            45,059 3CL0502.pdf
+03/22/2013  03:06 PM           124,254 3CL0503.pdf
+               5 File(s)        299,940 bytes
+
+ Directory of Y:\OLANZAPINA 5mg
+
+02/13/2013  10:49 AM            41,701 3CL0166.pdf
+02/13/2013  10:50 AM            43,415 3CL0167.pdf
+04/03/2013  01:50 PM            42,969 3CL0499.pdf
+               3 File(s)        128,085 bytes
+
+ Directory of Y:\PAX DIA
+
+02/13/2013  10:54 AM            37,178 3CL0082.pdf
+02/15/2013  02:52 PM            37,175 3CL0083.pdf
+02/19/2013  02:21 PM           120,407 3CL0171.pdf
+02/19/2013  02:17 PM           120,588 3CL0172.pdf
+02/19/2013  02:02 PM            36,997 3CL0173.pdf
+               5 File(s)        352,345 bytes
+
+ Directory of Y:\PAX NOCHE LIMON
+
+04/03/2013  01:34 PM            42,508 3CL0087.pdf
+04/03/2013  01:27 PM            42,191 3CL0088.pdf
+04/08/2013  09:16 AM            47,952 3CL0089.pdf
+04/08/2013  09:06 AM            47,759 3CL0090.pdf
+04/08/2013  09:22 AM            48,095 3CL0092.pdf
+04/08/2013  08:46 AM            48,315 3CL0093.pdf
+04/03/2013  01:11 PM            83,897 3CL0094.pdf
+02/25/2013  01:33 PM            41,685 3CL0174.pdf
+               8 File(s)        402,402 bytes
+
+ Directory of Y:\PAX NOCHE PANELA 6 g
+
+01/21/2013  12:58 PM            42,882 3CL0009.pdf
+02/25/2013  03:43 PM            44,409 3CL0010.pdf
+01/30/2013  10:08 AM            40,852 3CL0078.pdf
+02/25/2013  03:43 PM            40,633 3CL0079.pdf
+02/25/2013  03:42 PM            41,843 3CL0080.pdf
+               5 File(s)        210,619 bytes
+
+ Directory of Y:\PEPSAMAR 234mg
+
+04/09/2013  04:04 PM            42,366 3CL0041.pdf
+04/09/2013  03:56 PM            41,962 3CL0514.pdf
+04/08/2013  12:52 PM            43,825 3CL0515.pdf
+04/09/2013  04:01 PM            42,290 3CL0516.pdf
+               4 File(s)        170,443 bytes
+
+ Directory of Y:\PEPSAMAR REFLUX
+
+04/09/2013  10:35 AM           188,684 C3T283.pdf
+               1 File(s)        188,684 bytes
+
+ Directory of Y:\PEPSAMAR SUSPENSION
+
+02/15/2013  02:53 PM            38,761 3CL0251.pdf
+               1 File(s)         38,761 bytes
+
+ Directory of Y:\PLAQUINOL 200mg
+
+02/25/2013  01:33 PM            36,106 3CL0267.pdf
+03/21/2013  04:34 PM           120,775 3CL0423.pdf
+03/21/2013  04:35 PM           120,775 3CL0424.pdf
+03/21/2013  04:36 PM           120,783 3CL0425.pdf
+               4 File(s)        398,439 bytes
+
+ Directory of Y:\PLASIL JARABE
+
+02/20/2013  08:35 AM           114,962 308272.pdf
+               1 File(s)        114,962 bytes
+
+ Directory of Y:\PLAVIX 75mg
+
+02/19/2013  10:59 AM         1,982,081 2A659 1.pdf
+03/11/2013  10:52 AM           123,799 2A801.pdf
+               2 File(s)      2,105,880 bytes
+
+ Directory of Y:\PLITICAN GOTAS
+
+03/04/2013  09:03 AM            36,549 3CL0054.pdf
+03/04/2013  09:02 AM            37,410 3CL0055.pdf
+04/08/2013  05:05 PM            41,674 3CL0235.pdf
+               3 File(s)        115,633 bytes
+
+ Directory of Y:\PLITICAN INYECTABLE
+
+03/06/2013  01:00 PM         1,209,894 2CL2756.pdf
+               1 File(s)      1,209,894 bytes
+
+ Directory of Y:\PRIMPERAM 10mg-2ml
+
+03/13/2013  08:11 AM            33,142 A130018.pdf
+03/06/2013  11:39 AM            32,204 A130020.pdf
+03/13/2013  08:09 AM            32,130 A130021.pdf
+               3 File(s)         97,476 bytes
+
+ Directory of Y:\PRIMPERAN 10mg TAB
+
+03/21/2013  04:41 PM           122,579 3CL0645.pdf
+               1 File(s)        122,579 bytes
+
+ Directory of Y:\PRIMPERAN GEL SUSP
+
+02/04/2013  10:27 AM            50,995 3CL0130.pdf
+               1 File(s)         50,995 bytes
+
+ Directory of Y:\PROFENID 100mg
+
+02/28/2013  07:59 AM           297,287 12N0021.pdf
+02/28/2013  07:59 AM           297,394 12N0022.pdf
+02/28/2013  08:00 AM           295,891 12N0023.pdf
+03/06/2013  04:49 PM           213,357 308021.pdf
+               4 File(s)      1,103,929 bytes
+
+ Directory of Y:\PROFENID 2,5% GEL
+
+03/26/2013  01:01 PM           117,338 315629.pdf
+               1 File(s)        117,338 bytes
+
+ Directory of Y:\PROFENID JARABE
+
+01/24/2013  04:31 PM            77,071 214183.pdf
+01/24/2013  04:41 PM            59,639 243287.pdf
+04/05/2013  08:27 AM            62,725 251057.pdf
+               3 File(s)        199,435 bytes
+
+ Directory of Y:\PROPAFENONA 150mg
+
+03/01/2013  11:25 AM            35,739 3CL0449.pdf
+03/22/2013  11:26 AM            43,903 3CL0451.pdf
+03/22/2013  11:25 AM            43,340 3CL0452.pdf
+               3 File(s)        122,982 bytes
+
+ Directory of Y:\QUETIAPINA 100mg
+
+02/11/2013  10:34 AM            43,169 3CL0025.pdf
+03/11/2013  01:33 PM            44,431 3CL0471.pdf
+04/08/2013  12:54 PM            47,451 3CL0578.pdf
+               3 File(s)        135,051 bytes
+
+ Directory of Y:\QUETIAPINA 200mg
+
+04/08/2013  12:55 PM            49,930 3CL0579.pdf
+04/09/2013  03:53 PM            50,824 3CL0580.pdf
+               2 File(s)        100,754 bytes
+
+ Directory of Y:\QUEXEL 850mg
+
+03/22/2013  01:32 PM           124,249 03CL0324.pdf
+02/06/2013  11:59 AM           124,122 3CL0122 EXP_ECUADOR.pdf
+01/30/2013  09:04 AM           124,113 3CL0122 EXP_PERU.pdf
+02/25/2013  02:25 PM           124,028 3CL0222.pdf
+04/10/2013  08:31 AM           124,220 3CL0223.pdf
+03/11/2013  10:56 AM           124,427 3CL0323.pdf
+04/04/2013  04:07 PM           124,125 3CL0324 - PANAMA.pdf
+04/04/2013  04:07 PM           124,125 3CL0324 - VENEZUELA.pdf
+03/22/2013  01:44 PM           124,142 3CL0331.pdf
+03/22/2013  01:46 PM           124,130 3CL0332.pdf
+04/02/2013  04:17 PM           124,284 3CL0336-PANAMA.pdf
+04/10/2013  10:32 AM           124,425 3CL0347-VENEZUELA.pdf
+04/10/2013  10:40 AM           124,430 3CL0348-VENEZUELA.pdf
+04/11/2013  10:53 AM           124,071 3CL0349 - VENEZUELA.pdf
+04/12/2013  09:22 AM           124,019 3CL0349.pdf
+              15 File(s)      1,862,910 bytes
+
+ Directory of Y:\RANITIDINA INY
+
+03/06/2013  11:40 AM            51,214 A130023.pdf
+               1 File(s)         51,214 bytes
+
+ Directory of Y:\RENAGEL
+
+03/07/2013  09:57 AM            52,779 B2433B03.pdf
+               1 File(s)         52,779 bytes
+
+ Directory of Y:\RIFOCINA 1% SPRAY
+
+02/11/2013  10:06 AM           209,970 307760.pdf
+               1 File(s)        209,970 bytes
+
+ Directory of Y:\RILUTEK 50mg
+
+02/11/2013  07:28 AM            78,052 2FA7D.pdf
+02/11/2013  07:30 AM            81,182 2GW2D.pdf
+               2 File(s)        159,234 bytes
+
+ Directory of Y:\ROSUVASTATINA 10mg
+
+02/13/2013  11:21 AM            44,684 3CL0105.pdf
+               1 File(s)         44,684 bytes
+
+ Directory of Y:\ROSUVASTATINA 20mg
+
+03/11/2013  10:08 AM            44,822 3CL0281.pdf
+03/11/2013  10:04 AM            43,338 3CL0290.pdf
+               2 File(s)         88,160 bytes
+
+ Directory of Y:\SABRIL 500mg
+
+03/11/2013  10:43 AM           125,079 2653.pdf
+               1 File(s)        125,079 bytes
+
+ Directory of Y:\SECNIDAL 500mg
+
+02/05/2013  04:49 PM           440,532 C2R700.pdf
+               1 File(s)        440,532 bytes
+
+ Directory of Y:\SELSUN AMARILLO
+
+01/24/2013  02:55 PM            68,470 1016799563.pdf
+01/24/2013  02:54 PM            33,921 1016799833.pdf
+01/18/2013  07:32 AM            34,819 1016810663.pdf
+01/30/2013  09:49 AM            36,391 1126654772.pdf
+01/30/2013  09:49 AM            37,267 1126669542.pdf
+01/30/2013  09:48 AM            37,291 1126671572.pdf
+               6 File(s)        248,159 bytes
+
+ Directory of Y:\SERTRALINA 100mg
+
+04/08/2013  01:12 PM            40,326 3CL0561 - EXP.pdf
+04/08/2013  02:20 PM           121,482 3CL0561 - PANAMA.pdf
+04/09/2013  07:59 AM           123,213 3CL0561-COLOMBIA.pdf
+               3 File(s)        285,021 bytes
+
+ Directory of Y:\SERTRALINA 50mg
+
+04/03/2013  11:35 AM           122,651 3CL0427.pdf
+04/03/2013  11:35 AM           122,332 3CL0428.pdf
+               2 File(s)        244,983 bytes
+
+ Directory of Y:\SILDENAFIL 50mg
+
+02/13/2013  10:50 AM            36,657 3CL0165.pdf
+               1 File(s)         36,657 bytes
+
+ Directory of Y:\SINOGAN 100mg
+
+02/08/2013  07:44 AM           383,590 1A240.pdf
+               1 File(s)        383,590 bytes
+
+ Directory of Y:\SINOGAN GOTAS
+
+01/17/2013  06:01 AM           515,828 2E6361.pdf
+               1 File(s)        515,828 bytes
+
+ Directory of Y:\SOMATULINE 120mg
+
+02/07/2013  10:01 AM           226,086 E12396.pdf
+02/07/2013  09:59 AM           240,987 E20968.pdf
+               2 File(s)        467,073 bytes
+
+ Directory of Y:\SOMATULINE 60mg
+
+02/07/2013  10:00 AM           221,820 E12247.pdf
+02/07/2013  10:01 AM           246,357 E20965.pdf
+               2 File(s)        468,177 bytes
+
+ Directory of Y:\SOMATULINE 90mg
+
+02/07/2013  10:04 AM           250,152 E20966.pdf
+               1 File(s)        250,152 bytes
+
+ Directory of Y:\STILNOX 10mg
+
+02/08/2013  02:05 PM            61,034 2T088.pdf
+               1 File(s)         61,034 bytes
+
+ Directory of Y:\STILNOX CR 6,25mg
+
+02/08/2013  02:05 PM            42,739 2T010A.pdf
+03/05/2013  06:21 AM            68,140 2T019.pdf
+               2 File(s)        110,879 bytes
+
+ Directory of Y:\SYNVISC-ONE
+
+04/08/2013  06:42 AM           691,941 W12152.pdf
+               1 File(s)        691,941 bytes
+
+ Directory of Y:\TAMSULOSINA 0,4mg
+
+02/25/2013  04:11 PM            41,171 3CL0047.pdf
+               1 File(s)         41,171 bytes
+
+ Directory of Y:\TAXOTERE 20mg
+
+01/14/2013  11:50 AM            99,724 D2C146.pdf
+01/14/2013  11:51 AM            99,312 D2C620.pdf
+               2 File(s)        199,036 bytes
+
+ Directory of Y:\TAXOTERE 80mg
+
+01/14/2013  11:52 AM           100,240 D2C151.pdf
+01/14/2013  11:51 AM            99,372 D2C152.pdf
+               2 File(s)        199,612 bytes
+
+ Directory of Y:\TERAZOSINA 5mg
+
+02/25/2013  04:11 PM            35,092 3CL0453.pdf
+04/08/2013  09:30 AM            41,123 3CL0563.pdf
+               2 File(s)         76,215 bytes
+
+ Directory of Y:\THERALITE 300mg
+
+02/13/2013  10:53 AM            35,707 3CL0068.pdf
+02/15/2013  02:53 PM            37,488 3CL0069.pdf
+               2 File(s)         73,195 bytes
+
+ Directory of Y:\THYMOGLOBULINA
+
+03/05/2013  07:44 AM           207,606 C2216H15.pdf
+03/05/2013  07:45 AM           229,971 C2230H12.pdf
+               2 File(s)        437,577 bytes
+
+ Directory of Y:\THYROGEN
+
+01/28/2013  08:03 AM            96,938 15926895.pdf
+01/28/2013  08:04 AM            23,126 16033264.pdf
+01/28/2013  08:05 AM            53,728 16312766.pdf
+03/19/2013  02:48 PM           604,517 E2043A02.pdf
+               4 File(s)        778,309 bytes
+
+ Directory of Y:\TIAPINAN 100mg
+
+02/11/2013  04:23 PM           124,279 3CL0025.pdf
+               1 File(s)        124,279 bytes
+
+ Directory of Y:\TIAPRIDAL 100mg
+
+04/15/2013  05:49 PM           121,999 2CL2574-VENEZUELA.pdf
+04/15/2013  10:17 AM           125,026 3CL0679 - URUGUAY.pdf
+04/04/2013  03:40 PM            42,425 3CL0679.pdf
+               3 File(s)        289,450 bytes
+
+ Directory of Y:\TRAZODONA 50mg
+
+03/01/2013  11:25 AM            39,023 3CL0074.pdf
+               1 File(s)         39,023 bytes
+
+ Directory of Y:\TRITACE 5mg
+
+02/25/2013  07:51 AM            42,327 C2Q549.pdf
+               1 File(s)         42,327 bytes
+
+ Directory of Y:\URBADAN 20mg
+
+02/07/2013  08:00 AM           311,594 2V3693.pdf
+               1 File(s)        311,594 bytes
+
+ Directory of Y:\VALSARTAN 160mg
+
+02/15/2013  02:54 PM            40,121 3CL0064.pdf
+02/19/2013  02:00 PM            38,659 3CL0065.pdf
+02/15/2013  02:54 PM            38,962 3CL0368.pdf
+               3 File(s)        117,742 bytes
+
+ Directory of Y:\VALSARTAN 80mg
+
+02/15/2013  02:53 PM            35,880 3CL0098.pdf
+02/19/2013  01:59 PM            35,792 3CL0366.pdf
+02/19/2013  02:00 PM            35,703 3CL0367.pdf
+               3 File(s)        107,375 bytes
+
+ Directory of Y:\VERAPAMILO 120mg
+
+03/11/2013  10:08 AM            40,655 3CL0412.pdf
+03/11/2013  10:08 AM            38,697 3CL0413.pdf
+               2 File(s)         79,352 bytes
+
+ Directory of Y:\VERAPAMILO 80mg
+
+04/12/2013  05:33 PM            46,076 3CL0384.pdf
+               1 File(s)         46,076 bytes
+
+ Directory of Y:\VIGABATRIM
+
+01/14/2013  11:15 AM            41,318 2653.pdf
+02/27/2013  01:50 PM            37,060 3659.pdf
+               2 File(s)         78,378 bytes
+
+ Directory of Y:\WINADEINE
+
+04/08/2013  01:07 PM            46,042 3CL0379.pdf
+               1 File(s)         46,042 bytes
+
+ Directory of Y:\WINADEINE F TAB
+
+04/15/2013  08:43 AM            45,583 3CL0382.pdf
+               1 File(s)         45,583 bytes
+
+ Directory of Y:\WINASORB 100mg
+
+04/04/2013  03:48 PM            41,581 3CL0419.pdf
+               1 File(s)         41,581 bytes
+
+ Directory of Y:\WINASORB JARABE
+
+04/04/2013  11:47 AM            82,533 3CL0495.pdf
+               1 File(s)         82,533 bytes
+
+ Directory of Y:\WINTOMYLON 500mg
+
+02/26/2013  11:07 AM            41,868 3CL0269.pdf
+03/22/2013  03:34 PM            48,898 3CL0270.pdf
+03/11/2013  02:49 PM            43,728 3CL0271.pdf
+               3 File(s)        134,494 bytes
+
+ Directory of Y:\WINTOMYLON SUSP
+
+02/19/2013  02:03 PM            36,974 3CL0371.pdf
+               1 File(s)         36,974 bytes
+
+ Directory of Y:\WINTROPLEX TAB
+
+02/08/2013  02:06 PM            41,727 3CL0177.pdf
+               1 File(s)         41,727 bytes
+
+ Directory of Y:\XATRAL OD 10mg
+
+02/28/2013  08:05 AM            42,509 2T073.pdf
+02/28/2013  08:04 AM            42,984 2T089.pdf
+02/28/2013  08:04 AM            42,976 2T119.pdf
+               3 File(s)        128,469 bytes
+
+ Directory of Y:\XUNIRO 10mg
+
+02/13/2013  01:59 PM           124,449 3CL0105.pdf
+               1 File(s)        124,449 bytes
+
+ Directory of Y:\XUNIRO 20mg
+
+03/11/2013  10:54 AM           122,941 3CL0290.pdf
+               1 File(s)        122,941 bytes
+
+     Total Files Listed:
+             707 File(s)     96,130,256 bytes
+               0 Dir(s)  29,553,700,864 bytes free

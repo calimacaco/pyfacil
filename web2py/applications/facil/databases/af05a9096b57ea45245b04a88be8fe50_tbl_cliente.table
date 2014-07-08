@@ -1,0 +1,78 @@
+(dp1
+S'busqueda'
+p2
+(dp3
+S'type'
+p4
+S'text'
+p5
+sS'sortable'
+p6
+I2
+sS'sql'
+p7
+S'TEXT NOT NULL'
+p8
+ssS'correo'
+p9
+(dp10
+g4
+S'integer'
+p11
+sg6
+I6
+sg7
+S'INTEGER NOT NULL'
+p12
+ssS'dircorreo'
+p13
+(dp14
+g4
+g5
+sg6
+I3
+sg7
+S'TEXT NOT NULL'
+p15
+ssS'imprimir'
+p16
+(dp17
+g4
+g11
+sg6
+I4
+sg7
+S'INTEGER NOT NULL'
+p18
+ssS'pdf'
+p19
+(dp20
+g4
+g11
+sg6
+I5
+sg7
+S'INTEGER NOT NULL'
+p21
+ssS'estado'
+p22
+(dp23
+g4
+S'reference tbl_estado'
+p24
+sg6
+I7
+sg7
+S'INTEGER REFERENCES tbl_estado(id) ON DELETE CASCADE'
+p25
+ssS'id'
+p26
+(dp27
+g4
+g26
+sg6
+I1
+sg7
+S'INTEGER PRIMARY KEY AUTOINCREMENT'
+p28
+ss.

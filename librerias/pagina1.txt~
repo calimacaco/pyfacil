@@ -1,0 +1,8 @@
+basedatos.py	  ctrlarchivo.pyc   f2s_seleccion.pyc  prueba.py
+basedatos.pyc	  ctrlog.py	    facil.log	       prueba.pyc
+borrarpcl.py	  ctrlog.pyc	    GsDll.py	       registro.py
+captura.py	  encriptar.py	    GsDll.pyc	       registro.pyc
+captura.pyc	  encriptar.pyc     __init__.py        saltocanal.py
+ConvertImagen.py  EnvioCorreo.py    __init__.pyc       selectexto.py
+ctlspool.py	  EnvioCorreo.pyc   pagina1.txt
+ctrlarchivo.py	  f2s_seleccion.py  pagina.py

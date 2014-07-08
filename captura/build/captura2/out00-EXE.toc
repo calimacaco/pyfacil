@@ -1,0 +1,9 @@
+('Z:\\genesis\\captura\\dist\\captura2.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1400279859L)

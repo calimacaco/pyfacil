@@ -1,0 +1,16 @@
+# -*- coding: iso-8859-1 -*-
+from distutils.core import setup
+import py2exe
+setup(name="TrafDim",
+version="1.0",
+description="Trafico dinamico para Filtro ACtivo de Impresion Laser",
+author="SimpleSoft.com ltda",
+author_email="soportesimplesoft@gmail.com",
+url="www.cali2s.com",
+license="GNU",
+scripts=["trafdim.py"],
+console=["trafdim.py"],
+opts = {
+  'py2exe': { "includes" : ["bisect"] }
+}
+)

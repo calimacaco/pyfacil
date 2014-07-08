@@ -1,0 +1,8 @@
+########################################################################
+#
+# Facil filters
+#
+#application/fpyfacil		application/postscript	1	fpyfacil
+application/fpyfacil		application/octet-stream		1	fpyfacil
+########################################################################
+#

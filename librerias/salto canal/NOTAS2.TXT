@@ -1,0 +1,41 @@
+005                     BD:
+   0                        33200
+   2       OLIMPICA S.A.                                      NOTA CREDITO                   ND   122560
+   1       BARRANQUILLA
+   1       COD
+   1       890.107.487-3                                  141392        RI  782158    SO 14000140   VA14000049   28/11/06
+   1                                               ZN:010 SC:C99
+   2                                   020   No pedido
+   3   17158                                                                                  61,296.00         61,296.00-
+   0              EOB QGRASAPIST LIM GTS DP500ML                               1.00-CA
+   1   20199                                                                                  73,608.00         73,608.00-
+   0              VANISH PRE-LAVADO PIST 500ML                                 1.00-CA
+   1   20200                                                                                  52,452.00         52,452.00-
+   0              VANISH PRE-LAVADO RPTO 500ML                                 1.00-CA
+   1   20528                                                                                  50,280.00         50,280.00-
+   0              VANISH LIQUIDO  MAX 2X  1800ML                               1.00-CA
+   1   20531                                                                                  55,764.00         55,764.00-
+   0              VANISH LIQUIDO BLANCO 2X 900ML                               1.00-CA
+   1   20563                                                                                  55,764.00         55,764.00-
+   0              VANISH LIQ EXTRA HIGIENE 845ML                               1.00-CA
+   2              SUBTOTAL IVA 16%                                                                              349,164.00-
+036       349,164.00-           6,983.28-                 342,180.72-         54,749.00-                        396,929.72-
+   1Dinamica Comercial Oli      6,983.28-
+   2       JMUNOZ
+005                     BD:
+   0                        33200
+   2       931 OLIMPICA S.A.                                  NOTA CREDITO                   ND   122561
+   1       CALLE 18 # 13-360 SOLEDAD ATLANTICO
+   1       BARRANQUILLA
+   1       890.107.487-3                                  154492        RI  782159    SO 14000141   VA14000050   28/11/06
+   1                                               ZN:040 SC:C23
+   2                                   020   No pedido
+   3   20527                                                                                  55,764.00         55,764.00-
+   0              VANISH LIQUIDO MAX 2X  900ML                                 1.00-CA
+   1   20532                                                                                  50,280.00         50,280.00-
+   0              VANISH LIQ BLANCO 2X 1800ML                                  1.00-CA
+   2              SUBTOTAL IVA 16%                                                                              106,044.00-
+036       106,044.00-           2,120.88-                 103,923.12-         16,628.00-                        120,551.12-
+   1Dinamica Comercial Oli      2,120.88-
+   2       JMUNOZ
+

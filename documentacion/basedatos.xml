@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- SQL XML created by WWW SQL Designer, http://code.google.com/p/wwwsqldesigner/ -->
+<!-- Active URL: http://localhost/sqldesigner/ -->
+<sql>
+<datatypes db="web2py">
+	<group label="Numeric" color="rgb(238,238,170)">
+		<type label="Integer" length="1" sql="integer" re="INTEGER" quote=""/>
+		<type label="Double precision" length="1" sql="double" re="DOUBLE" quote=""/>
+	</group>
+	<group label="Character" color="rgb(255,200,200)">
+		<type label="String" length="1" sql="string" quote="'"/>
+		<type label="Text" length="1" sql="text" quote="'"/>
+		<type label="BLOB" length="1" sql="blob" quote="'"/>
+	</group>
+	<group label="Date &amp; Time" color="rgb(200,255,200)">
+		<type label="Time" length="0" sql="time" quote="'"/>
+		<type label="Date" length="0" sql="date" quote="'"/>
+		<type label="Datetime" length="0" sql="datetime" quote="'"/>
+	</group>
+	<group label="Miscellaneous" color="rgb(200,200,255)">
+		<type label="Boolean" length="0" sql="boolean" quote=""/>
+		<type label="Upload" length="0" sql="upload" quote=""/>
+		<type label="Password" length="0" sql="password" quote=""/>
+	</group>
+</datatypes><table x="151" y="18" name="tbl_impresora">
+<row name="id" null="1" autoincrement="1">
+<datatype>integer</datatype>
+<default>NULL</default></row>
+<row name="nombre" null="0" autoincrement="0">
+<datatype>string</datatype>
+</row>
+<row name="idestado" null="1" autoincrement="0">
+<datatype>integer</datatype>
+<default>NULL</default><relation table="tbl_estado" row="id" />
+</row>
+<row name="salidapdl" null="0" autoincrement="0">
+<datatype>integer(1)</datatype>
+<default>0</default><relation table="tbl_pdl" row="id" />
+<comment>0=pcl 1=ps 2=pdf</comment>
+</row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<comment>Impresora registradas en el sistema</comment>
+</table>
+<table x="427" y="30" name="tbl_spool">
+<row name="id" null="1" autoincrement="1">
+<datatype>integer</datatype>
+<default>NULL</default></row>
+<row name="idimpresora" null="0" autoincrement="0">
+<datatype>integer</datatype>
+<relation table="tbl_impresora" row="id" />
+</row>
+<row name="idestado" null="0" autoincrement="0">
+<datatype>integer</datatype>
+<relation table="tbl_estado" row="id" />
+</row>
+<row name="cups_usuario" null="0" autoincrement="0">
+<datatype>string</datatype>
+</row>
+<row name="cups_nombrejob" null="0" autoincrement="0">
+<datatype>string</datatype>
+</row>
+<row name="cups_jobid" null="1" autoincrement="0">
+<datatype>integer</datatype>
+</row>
+<row name="cups_copias" null="0" autoincrement="0">
+<datatype>integer</datatype>
+</row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<key type="INDEX" name="">
+<part>idestado</part>
+</key>
+<comment>Control de Spool de impresion</comment>
+</table>
+<table x="20" y="285" name="tbl_estado">
+<row name="id" null="1" autoincrement="1">
+<datatype>integer</datatype>
+<default>NULL</default></row>
+<row name="idgrupo" null="0" autoincrement="0">
+<datatype>integer</datatype>
+</row>
+<row name="idseleccion" null="0" autoincrement="0">
+<datatype>integer</datatype>
+</row>
+<row name="descripcion" null="0" autoincrement="0">
+<datatype>string</datatype>
+</row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<key type="INDEX" name="">
+<part>idgrupo</part>
+</key>
+<key type="INDEX" name="">
+<part>idseleccion</part>
+</key>
+<comment>control de estados de los modulos</comment>
+</table>
+<table x="153" y="149" name="tbl_pdl">
+<row name="id" null="1" autoincrement="1">
+<datatype>integer</datatype>
+<default>NULL</default></row>
+<row name="descripcion" null="0" autoincrement="0">
+<datatype>text</datatype>
+</row>
+<key type="PRIMARY" name="">
+<part>id</part>
+</key>
+<comment>lista de pdl disponibles</comment>
+</table>
+</sql>
+
